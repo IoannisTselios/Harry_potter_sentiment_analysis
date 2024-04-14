@@ -1,0 +1,960 @@
+,source,target,sentiment
+0,Aberforth Dumbledore,Albus Dumbledore,5.264590163934425
+1,Aberforth Dumbledore,Andromeda Tonks,5.132307692307692
+2,Aberforth Dumbledore,Antonin Dolohov,5.36
+3,Aberforth Dumbledore,Aragog,5.36086956521739
+4,Aberforth Dumbledore,Ariana Dumbledore,5.043829787234041
+5,Aberforth Dumbledore,Bathilda Bagshot,5.05736842105263
+6,Aberforth Dumbledore,Elphias Doge,5.2755045871559645
+7,Aberforth Dumbledore,Enid Smeek,5.3637500000000005
+8,Aberforth Dumbledore,Filius Flitwick,5.17979797979798
+9,Aberforth Dumbledore,Fred Weasley,5.094666666666667
+10,Aberforth Dumbledore,Gellert Grindelwald,5.586153846153847
+11,Aberforth Dumbledore,George Weasley,5.3551111111111105
+12,Aberforth Dumbledore,Ginny Weasley,5.132307692307692
+13,Aberforth Dumbledore,Godric Gryffindor,5.3637500000000005
+14,Aberforth Dumbledore,Harry Potter,5.3424377224199295
+15,Aberforth Dumbledore,Hermione Granger,5.282926829268293
+16,Aberforth Dumbledore,Ivor Dillonsby,5.205172413793103
+17,Aberforth Dumbledore,Kendra Dumbledore,5.3516129032258055
+18,Aberforth Dumbledore,Lord Voldemort,5.119777777777779
+19,Aberforth Dumbledore,Muriel,5.5566666666666675
+20,Aberforth Dumbledore,Neville Longbottom,5.185591397849463
+21,Aberforth Dumbledore,Percival Dumbledore,5.39781818181818
+22,Aberforth Dumbledore,Percy Weasley,5.3551111111111105
+23,Aberforth Dumbledore,Rita Skeeter,5.272875816993467
+24,Aberforth Dumbledore,Ron Weasley,5.286930693069307
+25,Aberforth Dumbledore,Severus Snape,5.320952380952382
+26,Aberforth Dumbledore,Sirius Black,5.182424242424242
+27,Adalbert Waffling,Bathilda Bagshot,5.721764705882355
+28,Adalbert Waffling,Nicolas Flamel,5.721764705882355
+29,Alastor Moody,Bill Weasley,5.146444444444444
+30,Alastor Moody,Fleur Delacour,5.293214285714285
+31,Alastor Moody,Fred Weasley,5.329090909090909
+32,Alastor Moody,George Weasley,5.329090909090909
+33,Alastor Moody,Harry Potter,5.357372881355932
+34,Alastor Moody,Hermione Granger,5.239130434782608
+35,Alastor Moody,Mundungus Fletcher,5.213404255319149
+36,Alastor Moody,Nymphadora Tonks,5.548372093023255
+37,Alastor Moody,Remus Lupin,4.904705882352941
+38,Alastor Moody,Ron Weasley,5.2336585365853665
+39,Alastor Moody,Severus Snape,5.2336585365853665
+40,Albert Runcorn,Harry Potter,5.3681720430107545
+41,Albert Runcorn,Hermione Granger,5.26516129032258
+42,Albert Runcorn,Mafalda Hopkirk,5.415454545454545
+43,Albert Runcorn,Percy Weasley,5.4363636363636365
+44,Albus Dumbledore,Ariana Dumbledore,5.254394618834079
+45,Albus Dumbledore,Armando Dippet,5.470000000000001
+46,Albus Dumbledore,Bathilda Bagshot,5.338524590163934
+47,Albus Dumbledore,Beedle the Bard,5.216702127659574
+48,Albus Dumbledore,Bellatrix Lestrange,5.096842105263159
+49,Albus Dumbledore,Betty Braithwaite,5.491000000000001
+50,Albus Dumbledore,Bill Weasley,5.063750000000001
+51,Albus Dumbledore,Dobby,5.120823529411766
+52,Albus Dumbledore,Draco Malfoy,5.161111111111111
+53,Albus Dumbledore,Elphias Doge,5.381141732283468
+54,Albus Dumbledore,Fawkes,5.293
+55,Albus Dumbledore,Fenrir Greyback,4.85
+56,Albus Dumbledore,Filius Flitwick,5.312
+57,Albus Dumbledore,Fleur Delacour,5.125249999999999
+58,Albus Dumbledore,Fred Weasley,5.22516129032258
+59,Albus Dumbledore,Gellert Grindelwald,5.313150684931506
+60,Albus Dumbledore,Ginny Weasley,5.401860465116279
+61,Albus Dumbledore,Godric Gryffindor,5.28840579710145
+62,Albus Dumbledore,Gringotts Head Goblin,5.336111111111111
+63,Albus Dumbledore,Harry Potter,5.27568225496476
+64,Albus Dumbledore,Hermione Granger,5.3201628664495155
+65,Albus Dumbledore,Horace Slughorn,5.306666666666667
+66,Albus Dumbledore,Hugo Weasley,5.462105263157895
+67,Albus Dumbledore,Ignotus Peverell,5.542222222222223
+68,Albus Dumbledore,Igor Karkaroff,5.182142857142858
+69,Albus Dumbledore,James Potter,5.222790697674418
+70,Albus Dumbledore,Kendra Dumbledore,5.371458333333332
+71,Albus Dumbledore,Kingsley Shacklebolt,5.383157894736843
+72,Albus Dumbledore,Lily Potter,5.450769230769231
+73,Albus Dumbledore,Lord Voldemort,5.273327032136104
+74,Albus Dumbledore,Lucius Malfoy,4.884
+75,Albus Dumbledore,Luna Lovegood,5.446315789473684
+76,Albus Dumbledore,Mark Evans,5.3806666666666665
+77,Albus Dumbledore,Marvolo Gaunt,5.484
+78,Albus Dumbledore,Muriel,5.327627118644068
+79,Albus Dumbledore,Neville Longbottom,5.337560975609757
+80,Albus Dumbledore,Nymphadora Tonks,5.116
+81,Albus Dumbledore,Percival Dumbledore,5.687272727272727
+82,Albus Dumbledore,Phineas Nigellus Black,5.313058823529414
+83,Albus Dumbledore,Pomona Sprout,5.312
+84,Albus Dumbledore,Quirinus Quirrell,5.332222222222223
+85,Albus Dumbledore,Remus Lupin,5.1988
+86,Albus Dumbledore,Rita Skeeter,5.317716346153848
+87,Albus Dumbledore,Roger Davies,5.182142857142858
+88,Albus Dumbledore,Ron Weasley,5.288852459016394
+89,Albus Dumbledore,Rose Zeller,5.462105263157895
+90,Albus Dumbledore,Rubeus Hagrid,5.0197222222222235
+91,Albus Dumbledore,Rufus Scrimgeour,5.1832558139534886
+92,Albus Dumbledore,Severus Snape,5.281766784452293
+93,Albus Dumbledore,Sirius Black,5.306835443037976
+94,Albus Dumbledore,Sorting Hat,5.246603773584908
+95,Albus Dumbledore,Sybill Trelawney,6.0600000000000005
+96,Albus Dumbledore,Ted,4.85
+97,Albus Dumbledore,Vernon Dursley,5.383157894736843
+98,Albus Dumbledore,Viktor Krum,5.075789473684212
+99,Albus Dumbledore,Xenophilius Lovegood,5.413076923076924
+100,Alecto Carrow,Amycus Carrow,5.341874999999999
+101,Alecto Carrow,Harry Potter,5.24
+102,Alecto Carrow,Lord Voldemort,5.18
+103,Alecto Carrow,Luna Lovegood,5.0928571428571425
+104,Alecto Carrow,Mark Evans,5.337567567567568
+105,Alecto Carrow,Minerva McGonagall,5.008888888888889
+106,Alecto Carrow,Severus Snape,5.044444444444445
+107,Alfred Cattermole,Corban Yaxley,5.162727272727273
+108,Alfred Cattermole,Ellie Cattermole,4.960000000000001
+109,Alfred Cattermole,Maisie Cattermole,4.960000000000001
+110,Alfred Cattermole,Ron Weasley,5.284800000000001
+111,Alicia Spinnet,Angelina Johnson,5.296666666666666
+112,Alicia Spinnet,Bill Weasley,5.296666666666666
+113,Alicia Spinnet,Fleur Delacour,5.296666666666666
+114,Alicia Spinnet,Katie Bell,5.296666666666666
+115,Alicia Spinnet,Kingsley Shacklebolt,5.296666666666666
+116,Alicia Spinnet,Oliver Wood,5.296666666666666
+117,Alicia Spinnet,Remus Lupin,5.296666666666666
+118,Amycus Carrow,Filius Flitwick,5.257333333333333
+119,Amycus Carrow,Harry Potter,5.409638554216866
+120,Amycus Carrow,Luna Lovegood,5.558181818181818
+121,Amycus Carrow,Minerva McGonagall,5.558181818181818
+122,Amycus Carrow,Terry Boot,5.292173913043479
+123,Andromeda Tonks,Colin Creevey,4.862916666666667
+124,Andromeda Tonks,Fred Weasley,5.0228846153846165
+125,Andromeda Tonks,Ginny Weasley,5.261485148514853
+126,Andromeda Tonks,Harry Potter,5.165096153846156
+127,Andromeda Tonks,Hermione Granger,5.191666666666664
+128,Andromeda Tonks,Lord Voldemort,4.862916666666667
+129,Andromeda Tonks,Neville Longbottom,5.298947368421053
+130,Andromeda Tonks,Remus Lupin,5.139580419580421
+131,Angelina Johnson,Bill Weasley,5.296666666666666
+132,Angelina Johnson,Fleur Delacour,5.296666666666666
+133,Angelina Johnson,Katie Bell,5.296666666666666
+134,Angelina Johnson,Kingsley Shacklebolt,5.296666666666666
+135,Angelina Johnson,Oliver Wood,5.296666666666666
+136,Angelina Johnson,Remus Lupin,5.296666666666666
+137,Anthony Goldstein,Ernie Macmillan,5.276666666666666
+138,Anthony Goldstein,Michael Corner,5.276666666666666
+139,Anthony Goldstein,Terry Boot,5.276666666666666
+140,Antioch Peverell,Cadmus Peverell,5.587692307692308
+141,Antioch Peverell,Ignotus Peverell,5.587692307692308
+142,Antonin Dolohov,Corban Yaxley,5.290593220338985
+143,Antonin Dolohov,Dean Thomas,5.2770370370370365
+144,Antonin Dolohov,Fenrir Greyback,5.1850000000000005
+145,Antonin Dolohov,Filius Flitwick,4.9732258064516115
+146,Antonin Dolohov,George Weasley,4.9732258064516115
+147,Antonin Dolohov,Harry Potter,5.210481927710842
+148,Antonin Dolohov,Hermione Granger,5.2944
+149,Antonin Dolohov,Lee Jordan,4.9732258064516115
+150,Antonin Dolohov,Lord Voldemort,5.5
+151,Antonin Dolohov,Parvati Patil,5.2770370370370365
+152,Antonin Dolohov,Pius Thicknesse,5.477333333333334
+153,Antonin Dolohov,Remus Lupin,5.4423076923076925
+154,Antonin Dolohov,Rubeus Hagrid,5.1359574468085105
+155,Antonin Dolohov,Thorfinn Rowle,5.1850000000000005
+156,Antonin Dolohov,Travers,5.575555555555556
+157,Antonin Dolohov,Walden Macnair,4.9732258064516115
+158,Aragog,Harry Potter,5.36086956521739
+159,Arcus,Livius,5.311999999999999
+160,Argus Filch,Minerva McGonagall,5.192941176470589
+161,Argus Filch,Poppy Pomfrey,5.475
+162,Ariana Dumbledore,Bathilda Bagshot,5.200333333333333
+163,Ariana Dumbledore,Elphias Doge,5.3398540145985445
+164,Ariana Dumbledore,Gellert Grindelwald,5.288571428571432
+165,Ariana Dumbledore,Godric Gryffindor,5.4239999999999995
+166,Ariana Dumbledore,Harry Potter,5.244839650145771
+167,Ariana Dumbledore,Hermione Granger,5.440363636363637
+168,Ariana Dumbledore,Kendra Dumbledore,5.271234567901234
+169,Ariana Dumbledore,Lancelot,5.295454545454546
+170,Ariana Dumbledore,Lord Voldemort,5.225841584158414
+171,Ariana Dumbledore,Luna Lovegood,5.3725
+172,Ariana Dumbledore,Muriel,5.242295081967212
+173,Ariana Dumbledore,Percival Dumbledore,5.687272727272727
+174,Ariana Dumbledore,Rita Skeeter,5.306388888888891
+175,Ariana Dumbledore,Ron Weasley,5.500000000000001
+176,Ariana Dumbledore,Severus Snape,5.201874999999999
+177,Arkie Alderton,Dolores Umbridge,5.372727272727274
+178,Armando Dippet,Harry Potter,5.470000000000001
+179,Armando Dippet,Rita Skeeter,5.470000000000001
+180,Arthur Weasley,Draco Malfoy,5.254782608695652
+181,Arthur Weasley,Fenrir Greyback,5.0009999999999994
+182,Arthur Weasley,George Weasley,5.624444444444444
+183,Arthur Weasley,Harry Potter,5.334406779661017
+184,Arthur Weasley,Hermione Granger,5.302077922077924
+185,Arthur Weasley,Kingsley Shacklebolt,5.253333333333334
+186,Arthur Weasley,Lucius Malfoy,5.0009999999999994
+187,Arthur Weasley,Monsieur Delacour,5.460930232558139
+188,Arthur Weasley,Narcissa Malfoy,5.0009999999999994
+189,Arthur Weasley,Neville Longbottom,5.0009999999999994
+190,Arthur Weasley,Percy Weasley,5.0009999999999994
+191,Arthur Weasley,Pius Thicknesse,5.0009999999999994
+192,Arthur Weasley,Remus Lupin,5.345000000000001
+193,Arthur Weasley,Ron Weasley,5.28703703703704
+194,Arthur Weasley,Rubeus Hagrid,5.251578947368421
+195,Arthur Weasley,Rufus Scrimgeour,5.288387096774193
+196,Arthur Weasley,Vernon Dursley,5.23904761904762
+197,Avery,Harry Potter,5.5925
+198,Avery,Mulciber,5.317777777777778
+199,Avery,Severus Snape,5.5925
+200,Bane,Harry Potter,5.133999999999999
+201,Bane,Magorian,5.133999999999999
+202,Bane,Ronan,5.133999999999999
+203,Barnabas Deverill,Loxias,4.624444444444445
+204,Barny Weasley,Harry Potter,5.58
+205,Barny Weasley,Xenophilius Lovegood,5.646666666666666
+206,Barry Ryan,Harry Potter,5.337777777777778
+207,Barry Ryan,Percival Dumbledore,5.215294117647059
+208,Bathilda Bagshot,Dirk Cresswell,5.13741935483871
+209,Bathilda Bagshot,Elphias Doge,5.4215384615384625
+210,Bathilda Bagshot,Gellert Grindelwald,5.556363636363639
+211,Bathilda Bagshot,Godric Gryffindor,5.433835616438354
+212,Bathilda Bagshot,Gornuk,5.13741935483871
+213,Bathilda Bagshot,Harry Potter,5.2944736842105256
+214,Bathilda Bagshot,Hermione Granger,5.343563218390807
+215,Bathilda Bagshot,James Potter,5.331666666666666
+216,Bathilda Bagshot,Kendra Dumbledore,5.280377358490567
+217,Bathilda Bagshot,Lily Potter,5.331666666666666
+218,Bathilda Bagshot,Muriel,5.259411764705881
+219,Bathilda Bagshot,Nicolas Flamel,5.721764705882355
+220,Bathilda Bagshot,Percival Dumbledore,5.617894736842106
+221,Bathilda Bagshot,Rita Skeeter,5.4575000000000005
+222,Bathilda Bagshot,Ron Weasley,5.13741935483871
+223,Beedle the Bard,Harry Potter,5.237956989247314
+224,Beedle the Bard,Hermione Granger,5.210645161290323
+225,Beedle the Bard,Ron Weasley,5.201351351351351
+226,Beedle the Bard,Rufus Scrimgeour,5.039062499999999
+227,Beedle the Bard,Xenophilius Lovegood,5.262222222222222
+228,Bellatrix Lestrange,Bill Weasley,5.150707070707071
+229,Bellatrix Lestrange,Dean Thomas,5.545
+230,Bellatrix Lestrange,Draco Malfoy,5.247674418604651
+231,Bellatrix Lestrange,Fenrir Greyback,5.408962264150944
+232,Bellatrix Lestrange,Fleur Delacour,5.102040816326531
+233,Bellatrix Lestrange,Garrick Ollivander,5.183030303030303
+234,Bellatrix Lestrange,Ginny Weasley,5.071826923076925
+235,Bellatrix Lestrange,Gringotts Head Goblin,5.123170731707317
+236,Bellatrix Lestrange,Griphook,5.311272727272728
+237,Bellatrix Lestrange,Harry Potter,5.26887417218543
+238,Bellatrix Lestrange,Hermione Granger,5.218325242718446
+239,Bellatrix Lestrange,Horace Slughorn,5.003536585365855
+240,Bellatrix Lestrange,Kingsley Shacklebolt,5.003536585365855
+241,Bellatrix Lestrange,Lord Voldemort,5.202344322344325
+242,Bellatrix Lestrange,Lucius Malfoy,5.318661971830984
+243,Bellatrix Lestrange,Luna Lovegood,5.003536585365855
+244,Bellatrix Lestrange,Mark Evans,5.281568627450981
+245,Bellatrix Lestrange,Minerva McGonagall,5.117545454545457
+246,Bellatrix Lestrange,Molly Weasley,5.1409722222222225
+247,Bellatrix Lestrange,Narcissa Malfoy,5.238678160919541
+248,Bellatrix Lestrange,Nymphadora Tonks,5.38
+249,Bellatrix Lestrange,Ron Weasley,5.180370370370371
+250,Bellatrix Lestrange,Rubeus Hagrid,5.326363636363637
+251,Bellatrix Lestrange,Severus Snape,5.384193548387097
+252,Bellatrix Lestrange,Sirius Black,5.5225
+253,Bellatrix Lestrange,Tom,5.540000000000001
+254,Bellatrix Lestrange,Travers,5.491538461538462
+255,Bernie,Ron Weasley,5.299565217391305
+256,Betty Braithwaite,Rita Skeeter,5.494444444444445
+257,Bilius,Hermione Granger,5.225384615384617
+258,Bill Weasley,Charlie Weasley,5.464347826086957
+259,Bill Weasley,Dean Thomas,5.2600000000000025
+260,Bill Weasley,Dobby,5.193548387096772
+261,Bill Weasley,Draco Malfoy,5.102040816326531
+262,Bill Weasley,Fenrir Greyback,5.278214285714285
+263,Bill Weasley,Fleur Delacour,5.312915392456674
+264,Bill Weasley,Fred Weasley,5.36443925233645
+265,Bill Weasley,Gabrielle Delacour,5.5097560975609765
+266,Bill Weasley,Garrick Ollivander,5.309795918367349
+267,Bill Weasley,George Weasley,5.362580645161292
+268,Bill Weasley,Ginny Weasley,5.268356164383563
+269,Bill Weasley,Gringotts Head Goblin,5.365964912280701
+270,Bill Weasley,Griphook,5.2879999999999985
+271,Bill Weasley,Harry Potter,5.300447154471539
+272,Bill Weasley,Hermione Granger,5.300598290598294
+273,Bill Weasley,Katie Bell,5.296666666666666
+274,Bill Weasley,Kingsley Shacklebolt,5.372369942196531
+275,Bill Weasley,Lord Voldemort,5.053636363636362
+276,Bill Weasley,Luna Lovegood,5.272530120481929
+277,Bill Weasley,Monsieur Delacour,5.45578947368421
+278,Bill Weasley,Mundungus Fletcher,5.285241379310348
+279,Bill Weasley,Narcissa Malfoy,5.102040816326531
+280,Bill Weasley,Nymphadora Tonks,5.402781456953642
+281,Bill Weasley,Oliver Wood,5.296666666666666
+282,Bill Weasley,Percy Weasley,5.483888888888888
+283,Bill Weasley,Perkins,4.84625
+284,Bill Weasley,Petunia Dursley,5.408000000000003
+285,Bill Weasley,Remus Lupin,5.254300518134716
+286,Bill Weasley,Ron Weasley,5.301443850267382
+287,Bill Weasley,Rubeus Hagrid,5.397966101694919
+288,Bill Weasley,Xenophilius Lovegood,5.262954545454546
+289,Bogrod,Griphook,5.233642857142858
+290,Bogrod,Harry Potter,5.123592814371258
+291,Bogrod,Hermione Granger,5.114216867469881
+292,Bogrod,Madam Edgecombe,5.156842105263159
+293,Bogrod,Ron Weasley,5.233500000000002
+294,Bogrod,Travers,5.18
+295,Bowman Wright,Godric Gryffindor,5.624210526315787
+296,Cadmus Peverell,Ignotus Peverell,5.587692307692308
+297,Caractacus Burke,Ron Weasley,5.37
+298,Cedric Diggory,Hermione Granger,5.360645161290324
+299,Celestina Warbeck,Ron Weasley,5.128
+300,Charity Burbage,Draco Malfoy,5.203333333333333
+301,Charity Burbage,Harry Potter,5.140425531914894
+302,Charity Burbage,Lord Voldemort,5.203333333333333
+303,Charity Burbage,Severus Snape,5.455000000000001
+304,Charlie Weasley,Fleur Delacour,5.387272727272728
+305,Charlie Weasley,Fred Weasley,5.291111111111111
+306,Charlie Weasley,Gabrielle Delacour,5.63
+307,Charlie Weasley,George Weasley,5.219230769230771
+308,Charlie Weasley,Harry Potter,5.460188679245283
+309,Charlie Weasley,Horace Slughorn,5.482222222222223
+310,Charlie Weasley,Norbert,5.868
+311,Charlie Weasley,Nymphadora Tonks,5.415357142857142
+312,Charlie Weasley,Percy Weasley,5.63
+313,Charlie Weasley,Remus Lupin,5.415357142857142
+314,Charlie Weasley,Ron Weasley,5.424444444444444
+315,Charlie Weasley,Rubeus Hagrid,5.320925925925927
+316,Cho Chang,Ginny Weasley,5.3872727272727285
+317,Cho Chang,Harry Potter,5.422173913043479
+318,Cho Chang,Lee Jordan,5.18
+319,Cho Chang,Luna Lovegood,5.43
+320,Cho Chang,Michael Corner,5.341875
+321,Cho Chang,Padma Patil,5.341875
+322,Cho Chang,Terry Boot,5.341875
+323,Colin Creevey,Draco Malfoy,5.072222222222223
+324,Colin Creevey,Fred Weasley,4.862916666666667
+325,Colin Creevey,Gregory Goyle,5.072222222222223
+326,Colin Creevey,Harry Potter,5.072222222222223
+327,Colin Creevey,Lord Voldemort,4.862916666666667
+328,Colin Creevey,Neville Longbottom,5.255789473684211
+329,Colin Creevey,Oliver Wood,5.255789473684211
+330,Colin Creevey,Remus Lupin,4.862916666666667
+331,Colin Creevey,Vincent Crabbe,5.072222222222223
+332,Corban Yaxley,Dolores Umbridge,5.186666666666666
+333,Corban Yaxley,Filius Flitwick,5.114363636363635
+334,Corban Yaxley,George Weasley,4.9732258064516115
+335,Corban Yaxley,Harry Potter,5.306342182890856
+336,Corban Yaxley,Hermione Granger,5.148926553672314
+337,Corban Yaxley,John Dawlish,5.3948648648648625
+338,Corban Yaxley,Kingsley Shacklebolt,5.296666666666666
+339,Corban Yaxley,Lee Jordan,4.9732258064516115
+340,Corban Yaxley,Lord Voldemort,5.315294117647059
+341,Corban Yaxley,Pius Thicknesse,5.477333333333334
+342,Corban Yaxley,Reginald Cattermole,5.356491228070176
+343,Corban Yaxley,Remus Lupin,5.4423076923076925
+344,Corban Yaxley,Ron Weasley,5.209583333333336
+345,Corban Yaxley,Rubeus Hagrid,4.9732258064516115
+346,Corban Yaxley,Severus Snape,5.279708737864079
+347,Corban Yaxley,Walden Macnair,4.9732258064516115
+348,Crookshanks,Harry Potter,5.256962025316458
+349,Crookshanks,Hermione Granger,5.256962025316458
+350,Crookshanks,Ron Weasley,5.195897435897436
+351,Dean Thomas,Dirk Cresswell,5.425
+352,Dean Thomas,Dobby,5.239354838709678
+353,Dean Thomas,Fenrir Greyback,5.21111111111111
+354,Dean Thomas,Fleur Delacour,5.2600000000000025
+355,Dean Thomas,Garrick Ollivander,5.077
+356,Dean Thomas,Gornuk,5.425
+357,Dean Thomas,Griphook,5.332711864406779
+358,Dean Thomas,Harry Potter,5.363534482758621
+359,Dean Thomas,Hermione Granger,5.350000000000001
+360,Dean Thomas,Lord Voldemort,5.21111111111111
+361,Dean Thomas,Luna Lovegood,5.30771186440678
+362,Dean Thomas,Nymphadora Tonks,5.680000000000001
+363,Dean Thomas,Parvati Patil,5.2770370370370365
+364,Dean Thomas,Ron Weasley,5.392538860103627
+365,Dean Thomas,Scabior,5.21111111111111
+366,Dean Thomas,Ted,4.908571428571428
+367,Dean Thomas,Travers,5.575555555555556
+368,Dedalus Diggle,Dudley Dursley,5.437777777777778
+369,Dedalus Diggle,Harry Potter,5.4011340206185565
+370,Dedalus Diggle,Hestia Jones,5.394347826086958
+371,Dedalus Diggle,Nymphadora Tonks,5.182631578947368
+372,Dedalus Diggle,Petunia Dursley,5.437777777777778
+373,Dedalus Diggle,Vernon Dursley,5.2479069767441855
+374,Dementor,Harry Potter,5.150909090909091
+375,Dexter Fortescue,Dilys Derwent,5.420508474576271
+376,Dirk Cresswell,Gornuk,5.348536585365854
+377,Dirk Cresswell,Griphook,5.264444444444445
+378,Dirk Cresswell,Harry Potter,5.196641221374047
+379,Dirk Cresswell,Hermione Granger,5.13741935483871
+380,Dirk Cresswell,Nymphadora Tonks,5.680000000000001
+381,Dirk Cresswell,Percy Weasley,5.135813953488372
+382,Dirk Cresswell,Ron Weasley,5.13741935483871
+383,Dirk Cresswell,Severus Snape,5.488292682926828
+384,Dirk Cresswell,Ted,5.610399999999999
+385,Dobby,Fleur Delacour,5.231428571428572
+386,Dobby,Garrick Ollivander,5.077
+387,Dobby,Griphook,5.17974358974359
+388,Dobby,Harry Potter,5.18537313432836
+389,Dobby,Hermione Granger,5.0452272727272724
+390,Dobby,Luna Lovegood,5.077
+391,Dobby,Ron Weasley,5.231428571428572
+392,Dolores Umbridge,Harry Potter,5.251679687500003
+393,Dolores Umbridge,Hermione Granger,5.234862385321102
+394,Dolores Umbridge,Mafalda Hopkirk,5.406666666666666
+395,Dolores Umbridge,Ron Weasley,5.233080808080809
+396,Dolores Umbridge,Severus Snape,5.386666666666667
+397,Draco Malfoy,Fenrir Greyback,5.294649122807021
+398,Draco Malfoy,Fleur Delacour,5.102040816326531
+399,Draco Malfoy,Ginny Weasley,5.025454545454545
+400,Draco Malfoy,Gregory Goyle,5.116972704714642
+401,Draco Malfoy,Griphook,5.19065573770492
+402,Draco Malfoy,Harry Potter,5.1842438271604925
+403,Draco Malfoy,Hermione Granger,5.173596730245234
+404,Draco Malfoy,Lord Voldemort,5.277857142857142
+405,Draco Malfoy,Lucius Malfoy,5.327222222222222
+406,Draco Malfoy,Narcissa Malfoy,5.173709677419355
+407,Draco Malfoy,Ron Weasley,5.153911764705885
+408,Draco Malfoy,Severus Snape,5.218666666666666
+409,Draco Malfoy,Thorfinn Rowle,5.928
+410,Draco Malfoy,Vincent Crabbe,5.071564885496183
+411,Dudley Dursley,Grawp,5.129333333333334
+412,Dudley Dursley,Harry Potter,5.386748251748253
+413,Dudley Dursley,Hestia Jones,5.324615384615384
+414,Dudley Dursley,Petunia Dursley,5.425714285714288
+415,Dudley Dursley,Rubeus Hagrid,5.260526315789473
+416,Dudley Dursley,Vernon Dursley,5.3090625000000005
+417,Ellie Cattermole,Maisie Cattermole,4.960000000000001
+418,Elphias Doge,Harry Potter,5.362672413793104
+419,Elphias Doge,Hermione Granger,5.5475
+420,Elphias Doge,Kendra Dumbledore,5.441627906976744
+421,Elphias Doge,Lancelot,5.241851851851852
+422,Elphias Doge,Muriel,5.2851612903225815
+423,Elphias Doge,Rita Skeeter,5.375359116022102
+424,Enid Smeek,Godric Gryffindor,5.3637500000000005
+425,Enid Smeek,Ivor Dillonsby,5.273421052631578
+426,Ernie Macmillan,Harry Potter,5.103333333333333
+427,Ernie Macmillan,Hermione Granger,5.103333333333333
+428,Ernie Macmillan,Luna Lovegood,5.3076923076923075
+429,Ernie Macmillan,Michael Corner,5.276666666666666
+430,Ernie Macmillan,Ron Weasley,5.245172413793104
+431,Ernie Macmillan,Seamus Finnigan,5.3076923076923075
+432,Ernie Macmillan,Terry Boot,5.276666666666666
+433,Fabian Prewett,Harry Potter,5.235365853658537
+434,Fabian Prewett,Ron Weasley,5.235365853658537
+435,Fang,Harry Potter,5.405
+436,Fang,Rubeus Hagrid,5.364782608695653
+437,Fawkes,Severus Snape,5.293
+438,Fenrir Greyback,Fleur Delacour,5.415652173913044
+439,Fenrir Greyback,Gabrielle Delacour,5.415652173913044
+440,Fenrir Greyback,Ginny Weasley,5.415652173913044
+441,Fenrir Greyback,Gringotts Head Goblin,5.297500000000001
+442,Fenrir Greyback,Griphook,5.195333333333334
+443,Fenrir Greyback,Harry Potter,5.214364406779658
+444,Fenrir Greyback,Hermione Granger,5.121693121693122
+445,Fenrir Greyback,Lavender Brown,5.128333333333333
+446,Fenrir Greyback,Lord Voldemort,5.266744186046512
+447,Fenrir Greyback,Lucius Malfoy,5.345316455696202
+448,Fenrir Greyback,Narcissa Malfoy,5.069777777777777
+449,Fenrir Greyback,Neville Longbottom,5.0009999999999994
+450,Fenrir Greyback,Percy Weasley,5.0009999999999994
+451,Fenrir Greyback,Pius Thicknesse,5.0009999999999994
+452,Fenrir Greyback,Ron Weasley,5.152488262910799
+453,Fenrir Greyback,Scabior,5.1824
+454,Fenrir Greyback,Severus Snape,5.297500000000001
+455,Fenrir Greyback,Thorfinn Rowle,5.198947368421053
+456,Fenrir Greyback,Vernon Dursley,5.138333333333334
+457,Filius Flitwick,George Weasley,4.9732258064516115
+458,Filius Flitwick,Ginny Weasley,5.322187499999999
+459,Filius Flitwick,Harry Potter,5.207633333333333
+460,Filius Flitwick,Horace Slughorn,4.824
+461,Filius Flitwick,Kingsley Shacklebolt,5.315227272727271
+462,Filius Flitwick,Lee Jordan,4.9732258064516115
+463,Filius Flitwick,Lord Voldemort,5.130000000000002
+464,Filius Flitwick,Luna Lovegood,5.350389610389609
+465,Filius Flitwick,Minerva McGonagall,5.382661290322581
+466,Filius Flitwick,Neville Longbottom,5.227619047619047
+467,Filius Flitwick,Pomona Sprout,5.264999999999999
+468,Filius Flitwick,Rubeus Hagrid,5.208315789473683
+469,Filius Flitwick,Severus Snape,5.162093023255813
+470,Filius Flitwick,Walden Macnair,4.9732258064516115
+471,Fleur Delacour,Fred Weasley,5.350047393364932
+472,Fleur Delacour,Gabrielle Delacour,5.488987341772153
+473,Fleur Delacour,Garrick Ollivander,5.396349206349207
+474,Fleur Delacour,George Weasley,5.350047393364932
+475,Fleur Delacour,Ginny Weasley,5.372807017543861
+476,Fleur Delacour,Griphook,5.3165
+477,Fleur Delacour,Harry Potter,5.320685358255446
+478,Fleur Delacour,Hermione Granger,5.293023255813955
+479,Fleur Delacour,Igor Karkaroff,5.182142857142858
+480,Fleur Delacour,Katie Bell,5.296666666666666
+481,Fleur Delacour,Kingsley Shacklebolt,5.397006802721089
+482,Fleur Delacour,Luna Lovegood,5.243577235772358
+483,Fleur Delacour,Mark Evans,5.182142857142858
+484,Fleur Delacour,Monsieur Delacour,5.54
+485,Fleur Delacour,Mundungus Fletcher,5.267976878612718
+486,Fleur Delacour,Narcissa Malfoy,5.102040816326531
+487,Fleur Delacour,Nymphadora Tonks,5.393898305084747
+488,Fleur Delacour,Oliver Wood,5.296666666666666
+489,Fleur Delacour,Percy Weasley,5.483888888888888
+490,Fleur Delacour,Petunia Dursley,5.392616822429909
+491,Fleur Delacour,Remus Lupin,5.376130653266332
+492,Fleur Delacour,Roger Davies,5.321724137931035
+493,Fleur Delacour,Ron Weasley,5.2834911242603555
+494,Fleur Delacour,Rubeus Hagrid,5.335099337748345
+495,Fleur Delacour,Severus Snape,5.452000000000001
+496,Fleur Delacour,Viktor Krum,5.355102040816327
+497,Fleur Delacour,Xenophilius Lovegood,5.229558823529413
+498,Fred Weasley,George Weasley,5.339898348157557
+499,Fred Weasley,Ginny Weasley,5.2333333333333325
+500,Fred Weasley,Hannah Abbott,5.227333333333333
+501,Fred Weasley,Harry Potter,5.2668661971830995
+502,Fred Weasley,Hermione Granger,5.236818181818185
+503,Fred Weasley,Kingsley Shacklebolt,5.4155645161290344
+504,Fred Weasley,Lavender Brown,5.303529411764705
+505,Fred Weasley,Lee Jordan,5.30876712328767
+506,Fred Weasley,Lord Voldemort,5.2364814814814835
+507,Fred Weasley,Luna Lovegood,5.576666666666666
+508,Fred Weasley,Mundungus Fletcher,5.317441860465119
+509,Fred Weasley,Muriel,5.317142857142858
+510,Fred Weasley,Nymphadora Tonks,5.408000000000003
+511,Fred Weasley,Percy Weasley,5.261473684210528
+512,Fred Weasley,Petunia Dursley,5.392616822429909
+513,Fred Weasley,Remus Lupin,5.2089855072463775
+514,Fred Weasley,Ron Weasley,5.2849338374291115
+515,Fred Weasley,Rubeus Hagrid,5.266837606837609
+516,Gabrielle Delacour,Ginny Weasley,5.415652173913044
+517,Gabrielle Delacour,Harry Potter,5.388709677419354
+518,Gabrielle Delacour,Hermione Granger,5.1518749999999995
+519,Gabrielle Delacour,Monsieur Delacour,5.633695652173915
+520,Gabrielle Delacour,Percy Weasley,5.63
+521,Gabrielle Delacour,Ron Weasley,5.1518749999999995
+522,Garrick Ollivander,Gringotts Head Goblin,5.21
+523,Garrick Ollivander,Griphook,5.216666666666667
+524,Garrick Ollivander,Harry Potter,5.214937499999998
+525,Garrick Ollivander,Hermione Granger,5.2301388888888924
+526,Garrick Ollivander,Lord Voldemort,5.14543307086614
+527,Garrick Ollivander,Luna Lovegood,5.149374999999998
+528,Garrick Ollivander,Muriel,5.46
+529,Garrick Ollivander,Mykew Gregorovitch,5.096000000000001
+530,Garrick Ollivander,Ron Weasley,5.211900826446279
+531,Garrick Ollivander,Viktor Krum,5.295714285714285
+532,Gellert Grindelwald,Godric Gryffindor,5.379622641509434
+533,Gellert Grindelwald,Harry Potter,5.253697916666667
+534,Gellert Grindelwald,Hermione Granger,5.320555555555555
+535,Gellert Grindelwald,Luna Lovegood,5.325581395348836
+536,Gellert Grindelwald,Mykew Gregorovitch,5.1220338983050855
+537,Gellert Grindelwald,Rita Skeeter,5.376588235294119
+538,Gellert Grindelwald,Ron Weasley,5.171785714285714
+539,Gellert Grindelwald,Viktor Krum,5.092424242424244
+540,George Weasley,Ginny Weasley,5.22843373493976
+541,George Weasley,Harry Potter,5.273943089430899
+542,George Weasley,Hermione Granger,5.321116279069767
+543,George Weasley,Kingsley Shacklebolt,5.4155645161290344
+544,George Weasley,Lavender Brown,5.303529411764705
+545,George Weasley,Lee Jordan,5.201216216216214
+546,George Weasley,Luna Lovegood,5.576666666666666
+547,George Weasley,Mundungus Fletcher,5.317441860465119
+548,George Weasley,Muriel,5.317142857142858
+549,George Weasley,Nymphadora Tonks,5.408000000000003
+550,George Weasley,Percy Weasley,5.3710958904109605
+551,George Weasley,Perkins,4.96391304347826
+552,George Weasley,Petunia Dursley,5.392616822429909
+553,George Weasley,Remus Lupin,5.326519823788545
+554,George Weasley,Ron Weasley,5.373537234042555
+555,George Weasley,Rubeus Hagrid,5.272454545454545
+556,George Weasley,Severus Snape,5.235185185185185
+557,George Weasley,Sirius Black,5.109411764705882
+558,George Weasley,Walden Macnair,4.9732258064516115
+559,Ginny Weasley,Harry Potter,5.315113821138212
+560,Ginny Weasley,Hermione Granger,5.224464646464642
+561,Ginny Weasley,Horace Slughorn,5.003536585365855
+562,Ginny Weasley,James Potter,5.648163265306123
+563,Ginny Weasley,Kingsley Shacklebolt,5.221936936936938
+564,Ginny Weasley,Lee Jordan,5.365581395348837
+565,Ginny Weasley,Lily Potter,5.450769230769231
+566,Ginny Weasley,Lord Voldemort,5.0946521739130475
+567,Ginny Weasley,Luna Lovegood,5.243722627737227
+568,Ginny Weasley,Michael Corner,5.341875
+569,Ginny Weasley,Minerva McGonagall,5.077751196172249
+570,Ginny Weasley,Monsieur Delacour,5.478421052631577
+571,Ginny Weasley,Mundungus Fletcher,5.124615384615385
+572,Ginny Weasley,Neville Longbottom,5.394795321637428
+573,Ginny Weasley,Padma Patil,5.341875
+574,Ginny Weasley,Phineas Nigellus Black,4.52
+575,Ginny Weasley,Pomona Sprout,5.322187499999999
+576,Ginny Weasley,Remus Lupin,5.191666666666664
+577,Ginny Weasley,Ron Weasley,5.284885844748854
+578,Ginny Weasley,Rose Zeller,5.250333333333334
+579,Ginny Weasley,Rubeus Hagrid,5.29230769230769
+580,Ginny Weasley,Severus Snape,5.3514285714285705
+581,Ginny Weasley,Terry Boot,5.341875
+582,Ginny Weasley,Vernon Dursley,5.383157894736843
+583,Ginny Weasley,Viktor Krum,5.217142857142856
+584,Godelot,Hereward,5.14
+585,Godric Gryffindor,Harry Potter,5.411350000000001
+586,Godric Gryffindor,Hermione Granger,5.465562130177515
+587,Godric Gryffindor,Ignotus Peverell,5.213617021276596
+588,Godric Gryffindor,Kendra Dumbledore,5.342528735632186
+589,Godric Gryffindor,Lord Voldemort,5.385777777777776
+590,Godric Gryffindor,Percival Dumbledore,5.117560975609755
+591,Godric Gryffindor,Ron Weasley,5.555208333333334
+592,Godric Gryffindor,Viktor Krum,5.077692307692307
+593,Godric Gryffindor,Xenophilius Lovegood,5.13
+594,Gornuk,Griphook,5.3428571428571425
+595,Gornuk,Harry Potter,5.13741935483871
+596,Gornuk,Hermione Granger,5.13741935483871
+597,Gornuk,Nymphadora Tonks,5.680000000000001
+598,Gornuk,Ron Weasley,5.13741935483871
+599,Grawp,Harry Potter,5.203867924528301
+600,Grawp,Lord Voldemort,5.307567567567568
+601,Grawp,Minerva McGonagall,5.355609756097561
+602,Gregory Goyle,Harry Potter,5.154261363636366
+603,Gregory Goyle,Hermione Granger,5.1696202531645605
+604,Gregory Goyle,Ron Weasley,5.163879310344831
+605,Gregory Goyle,Vincent Crabbe,5.113923444976077
+606,Gringotts Head Goblin,Griphook,5.369756097560976
+607,Gringotts Head Goblin,Harry Potter,5.286358839050131
+608,Gringotts Head Goblin,Hermione Granger,5.186607142857145
+609,Gringotts Head Goblin,Lord Voldemort,5.336111111111111
+610,Gringotts Head Goblin,Neville Longbottom,5.113333333333332
+611,Gringotts Head Goblin,Ron Weasley,5.21
+612,Gringotts Head Goblin,Rubeus Hagrid,5.336585365853659
+613,Gringotts Head Goblin,Severus Snape,5.297500000000001
+614,Gringotts Head Goblin,Ted,5.243846153846154
+615,Griphook,Harry Potter,5.238913308913306
+616,Griphook,Hermione Granger,5.19467741935484
+617,Griphook,Lord Voldemort,5.21111111111111
+618,Griphook,Luna Lovegood,5.125128205128203
+619,Griphook,Ron Weasley,5.275797665369653
+620,Griphook,Scabior,5.21111111111111
+621,Griphook,Severus Snape,5.444615384615385
+622,Griphook,Tom,5.392307692307693
+623,Hannah Abbott,Harry Potter,5.151764705882352
+624,Hannah Abbott,Hermione Granger,5.117500000000001
+625,Hannah Abbott,Lee Jordan,5.227333333333333
+626,Hannah Abbott,Lord Voldemort,5.110545454545453
+627,Harry Potter,Hedwig,5.2285863874345555
+628,Harry Potter,Hermione Granger,5.253435886847003
+629,Harry Potter,Hestia Jones,5.41767441860465
+630,Harry Potter,Horace Slughorn,5.240869565217392
+631,Harry Potter,Ignotus Peverell,5.468571428571428
+632,Harry Potter,James Potter,5.344400000000002
+633,Harry Potter,John Dawlish,5.192413793103448
+634,Harry Potter,Kingsley Shacklebolt,5.354987593052114
+635,Harry Potter,Kreacher,5.286456043956041
+636,Harry Potter,Lavender Brown,5.4963999999999995
+637,Harry Potter,Lee Jordan,5.276577181208054
+638,Harry Potter,Lily Potter,5.369527896995712
+639,Harry Potter,Lord Voldemort,5.229696261682248
+640,Harry Potter,Lucius Malfoy,5.246883720930232
+641,Harry Potter,Luna Lovegood,5.322275249722533
+642,Harry Potter,Mafalda Hopkirk,5.231851851851851
+643,Harry Potter,Magorian,5.133999999999999
+644,Harry Potter,Mark Evans,5.32462962962963
+645,Harry Potter,Marvolo Gaunt,5.258356164383562
+646,Harry Potter,Mary Riddle,5.2727272727272725
+647,Harry Potter,Merlin,5.3244827586206895
+648,Harry Potter,Merope Riddle,5.311363636363637
+649,Harry Potter,Minerva McGonagall,5.254007936507936
+650,Harry Potter,Molly Weasley,5.216488095238094
+651,Harry Potter,Monsieur Delacour,5.460930232558139
+652,Harry Potter,Mundungus Fletcher,5.358149253731344
+653,Harry Potter,Muriel,5.414418604651162
+654,Harry Potter,Mykew Gregorovitch,5.191004016064258
+655,Harry Potter,Nagini,5.361782178217822
+656,Harry Potter,Narcissa Malfoy,5.195499999999998
+657,Harry Potter,Nearly-Headless Nick,5.512608695652175
+658,Harry Potter,Neville Longbottom,5.235521235521232
+659,Harry Potter,Nymphadora Tonks,5.323496659242764
+660,Harry Potter,Pansy Parkinson,5.256969696969696
+661,Harry Potter,Percival Dumbledore,5.190708661417324
+662,Harry Potter,Percy Weasley,5.229903225806452
+663,Harry Potter,Perkins,4.96391304347826
+664,Harry Potter,Peter Pettigrew,5.54153846153846
+665,Harry Potter,Petunia Dursley,5.399361702127662
+666,Harry Potter,Phineas Nigellus Black,5.267450980392158
+667,Harry Potter,Pigwidgeon,5.19842105263158
+668,Harry Potter,Pius Thicknesse,5.27039603960396
+669,Harry Potter,Pomona Sprout,5.178995633187773
+670,Harry Potter,Reginald Cattermole,5.444642857142857
+671,Harry Potter,Regulus Black,5.41919191919192
+672,Harry Potter,Remus Lupin,5.31752878653676
+673,Harry Potter,Rita Skeeter,5.295633423180595
+674,Harry Potter,Ron Weasley,5.268124571428565
+675,Harry Potter,Ronan,5.133999999999999
+676,Harry Potter,Rose Zeller,5.250333333333334
+677,Harry Potter,Rubeus Hagrid,5.237890909090911
+678,Harry Potter,Rufus Scrimgeour,5.254900662251656
+679,Harry Potter,Scabior,5.12360465116279
+680,Harry Potter,Seamus Finnigan,5.403714285714286
+681,Harry Potter,Selwyn,5.4875
+682,Harry Potter,Severus Snape,5.247373949579832
+683,Harry Potter,Sirius Black,5.275992366412213
+684,Harry Potter,Sorting Hat,5.169090909090911
+685,Harry Potter,Stan Shunpike,5.246875
+686,Harry Potter,Ted,5.5175
+687,Harry Potter,Terry Boot,5.292173913043479
+688,Harry Potter,Thorfinn Rowle,5.209090909090909
+689,Harry Potter,Tom,5.392307692307693
+690,Harry Potter,Travers,5.294234234234233
+691,Harry Potter,Vernon Dursley,5.294935732647815
+692,Harry Potter,Viktor Krum,5.279655172413796
+693,Harry Potter,Vincent Crabbe,5.074736842105266
+694,Harry Potter,Wakanda,5.0073684210526315
+695,Harry Potter,Walden Macnair,4.9732258064516115
+696,Harry Potter,Xenophilius Lovegood,5.345790697674415
+697,Harry Potter,Zacharias Smith,5.260930232558139
+698,Hepzibah Smith,Hermione Granger,5.158249999999999
+699,Hermione Granger,Ignotus Peverell,5.3776190476190475
+700,Hermione Granger,Kingsley Shacklebolt,5.425971563981045
+701,Hermione Granger,Kreacher,5.209307692307694
+702,Hermione Granger,Lee Jordan,5.118333333333333
+703,Hermione Granger,Lily Potter,5.263658536585364
+704,Hermione Granger,Lord Voldemort,5.190424597364565
+705,Hermione Granger,Lucius Malfoy,5.293800000000001
+706,Hermione Granger,Luna Lovegood,5.285161290322582
+707,Hermione Granger,Mafalda Hopkirk,5.266233766233766
+708,Hermione Granger,Marvolo Gaunt,5.19851851851852
+709,Hermione Granger,Merlin,5.3100000000000005
+710,Hermione Granger,Minerva McGonagall,4.926031746031746
+711,Hermione Granger,Monsieur Delacour,5.460930232558139
+712,Hermione Granger,Mundungus Fletcher,5.280974025974027
+713,Hermione Granger,Muriel,5.223333333333334
+714,Hermione Granger,Mykew Gregorovitch,5.170927835051548
+715,Hermione Granger,Neville Longbottom,5.29
+716,Hermione Granger,Norbert,5.572307692307691
+717,Hermione Granger,Nymphadora Tonks,5.399082568807342
+718,Hermione Granger,Percy Weasley,5.234054054054055
+719,Hermione Granger,Peter Pettigrew,5.0608695652173905
+720,Hermione Granger,Petunia Dursley,5.392616822429909
+721,Hermione Granger,Regulus Black,5.2108620689655165
+722,Hermione Granger,Remus Lupin,5.324761904761903
+723,Hermione Granger,Rita Skeeter,5.319032258064515
+724,Hermione Granger,Ron Weasley,5.249771820448875
+725,Hermione Granger,Rubeus Hagrid,5.280024449877752
+726,Hermione Granger,Rufus Scrimgeour,5.234561403508773
+727,Hermione Granger,Scabior,5.208135593220338
+728,Hermione Granger,Severus Snape,5.216551724137927
+729,Hermione Granger,Sirius Black,5.277464788732391
+730,Hermione Granger,Stan Shunpike,4.82
+731,Hermione Granger,Thorfinn Rowle,5.384615384615383
+732,Hermione Granger,Tom,5.339555555555555
+733,Hermione Granger,Travers,5.360666666666669
+734,Hermione Granger,Viktor Krum,5.287333333333335
+735,Hermione Granger,Vincent Crabbe,5.111454545454547
+736,Hermione Granger,Xenophilius Lovegood,5.296260869565217
+737,Hestia Jones,Petunia Dursley,5.324615384615384
+738,Hestia Jones,Vernon Dursley,5.302500000000001
+739,Horace Slughorn,Kingsley Shacklebolt,5.010087719298246
+740,Horace Slughorn,Lord Voldemort,5.074965986394559
+741,Horace Slughorn,Luna Lovegood,5.076574074074076
+742,Horace Slughorn,Minerva McGonagall,5.065214285714287
+743,Horace Slughorn,Pomona Sprout,4.824
+744,Horace Slughorn,Ron Weasley,5.29909090909091
+745,Hugo Weasley,Lily Potter,5.3999999999999995
+746,Hugo Weasley,Ron Weasley,5.302666666666667
+747,Hugo Weasley,Rose Zeller,5.42
+748,Ignotus Peverell,Marvolo Gaunt,5.350666666666667
+749,Ignotus Peverell,Ron Weasley,5.004
+750,Ignotus Peverell,Xenophilius Lovegood,5.381666666666667
+751,Igor Karkaroff,Mark Evans,5.144736842105263
+752,Igor Karkaroff,Roger Davies,5.182142857142858
+753,James Potter,Lily Potter,5.317718631178709
+754,James Potter,Neville Longbottom,5.688571428571429
+755,James Potter,Percival Dumbledore,5.0826315789473675
+756,James Potter,Peter Pettigrew,5.371111111111112
+757,James Potter,Remus Lupin,5.343741935483871
+758,James Potter,Severus Snape,5.394375000000001
+759,James Potter,Sirius Black,5.391679999999998
+760,John Dawlish,Lord Voldemort,5.357894736842104
+761,John Dawlish,Neville Longbottom,5.540000000000001
+762,John Dawlish,Severus Snape,5.357894736842104
+763,Katie Bell,Kingsley Shacklebolt,5.296666666666666
+764,Katie Bell,Oliver Wood,5.296666666666666
+765,Katie Bell,Remus Lupin,5.296666666666666
+766,Kendra Dumbledore,Muriel,5.104705882352941
+767,Kendra Dumbledore,Percival Dumbledore,5.687272727272727
+768,Kingsley Shacklebolt,Lord Voldemort,5.010087719298246
+769,Kingsley Shacklebolt,Luna Lovegood,5.143219178082193
+770,Kingsley Shacklebolt,Minerva McGonagall,5.122303370786516
+771,Kingsley Shacklebolt,Molly Weasley,5.466363636363635
+772,Kingsley Shacklebolt,Mundungus Fletcher,5.393486238532112
+773,Kingsley Shacklebolt,Neville Longbottom,5.322187499999999
+774,Kingsley Shacklebolt,Nymphadora Tonks,5.392800000000001
+775,Kingsley Shacklebolt,Oliver Wood,5.296666666666666
+776,Kingsley Shacklebolt,Petunia Dursley,5.408000000000003
+777,Kingsley Shacklebolt,Pomona Sprout,5.322187499999999
+778,Kingsley Shacklebolt,Remus Lupin,5.444180790960455
+779,Kingsley Shacklebolt,Ron Weasley,5.460487804878052
+780,Kingsley Shacklebolt,Rubeus Hagrid,5.366888888888889
+781,Kingsley Shacklebolt,Vernon Dursley,5.383157894736843
+782,Kreacher,Lord Voldemort,4.851282051282051
+783,Kreacher,Mundungus Fletcher,5.1638095238095225
+784,Kreacher,Regulus Black,5.359411764705882
+785,Kreacher,Ron Weasley,5.119999999999999
+786,Kreacher,Severus Snape,5.132307692307692
+787,Kreacher,Sirius Black,5.114459459459458
+788,Lancelot,Muriel,5.295454545454546
+789,Lavender Brown,Seamus Finnigan,5.4963999999999995
+790,Lee Jordan,Ron Weasley,5.499333333333333
+791,Lee Jordan,Rubeus Hagrid,5.1063636363636355
+792,Lee Jordan,Walden Macnair,4.9732258064516115
+793,Lily Potter,Lord Voldemort,5.2733333333333325
+794,Lily Potter,Lucius Malfoy,5.060666666666666
+795,Lily Potter,Mary Macdonald,5.377391304347825
+796,Lily Potter,Peter Pettigrew,5.548888888888888
+797,Lily Potter,Petunia Dursley,5.386
+798,Lily Potter,Remus Lupin,5.46157894736842
+799,Lily Potter,Rose Zeller,5.3999999999999995
+800,Lily Potter,Severus Snape,5.3422429906542055
+801,Lily Potter,Sirius Black,5.46157894736842
+802,Lord Voldemort,Lucius Malfoy,5.3122916666666695
+803,Lord Voldemort,Luna Lovegood,5.077352941176473
+804,Lord Voldemort,Minerva McGonagall,4.980169491525424
+805,Lord Voldemort,Molly Weasley,5.099782608695653
+806,Lord Voldemort,Mykew Gregorovitch,5.133090909090908
+807,Lord Voldemort,Nagini,5.397053571428571
+808,Lord Voldemort,Narcissa Malfoy,5.384423076923079
+809,Lord Voldemort,Neville Longbottom,5.191256281407035
+810,Lord Voldemort,Peter Pettigrew,5.2286666666666655
+811,Lord Voldemort,Pius Thicknesse,5.180256410256411
+812,Lord Voldemort,Regulus Black,4.776363636363637
+813,Lord Voldemort,Remus Lupin,5.119528301886792
+814,Lord Voldemort,Ron Weasley,5.228707482993194
+815,Lord Voldemort,Rubeus Hagrid,5.201666666666667
+816,Lord Voldemort,Rufus Scrimgeour,4.880416666666668
+817,Lord Voldemort,Scabior,5.208135593220338
+818,Lord Voldemort,Selwyn,5.416666666666668
+819,Lord Voldemort,Severus Snape,5.3232128514056205
+820,Lord Voldemort,Sirius Black,5.1782352941176475
+821,Lord Voldemort,Vernon Dursley,5.395882352941176
+822,Lucius Malfoy,Mark Evans,5.306176470588237
+823,Lucius Malfoy,Narcissa Malfoy,5.249230769230771
+824,Lucius Malfoy,Neville Longbottom,5.0009999999999994
+825,Lucius Malfoy,Percy Weasley,5.0009999999999994
+826,Lucius Malfoy,Pius Thicknesse,5.0009999999999994
+827,Lucius Malfoy,Ron Weasley,5.121428571428571
+828,Lucius Malfoy,Severus Snape,5.028750000000001
+829,Luna Lovegood,Michael Corner,4.883333333333334
+830,Luna Lovegood,Minerva McGonagall,5.254620938628159
+831,Luna Lovegood,Neville Longbottom,5.29453947368421
+832,Luna Lovegood,Pomona Sprout,5.199470588235295
+833,Luna Lovegood,Ron Weasley,5.444687499999998
+834,Luna Lovegood,Rubeus Hagrid,5.317249999999998
+835,Luna Lovegood,Seamus Finnigan,5.3076923076923075
+836,Luna Lovegood,Selwyn,5.4875
+837,Luna Lovegood,Severus Snape,5.1839037433155095
+838,Luna Lovegood,Viktor Krum,5.276363636363637
+839,Luna Lovegood,Xenophilius Lovegood,5.547419354838712
+840,Mafalda Hopkirk,Ron Weasley,5.21047619047619
+841,Magorian,Ronan,5.133999999999999
+842,Mark Evans,Minerva McGonagall,5.319999999999999
+843,Mark Evans,Roger Davies,5.182142857142858
+844,Mark Evans,Severus Snape,5.470322580645162
+845,Marvolo Gaunt,Nagini,5.189411764705882
+846,Marvolo Gaunt,Ron Weasley,5.252750000000001
+847,Merlin,Mundungus Fletcher,5.297777777777778
+848,Merlin,Ron Weasley,5.388222222222222
+849,Merlin,Xenophilius Lovegood,5.068
+850,Merope Riddle,Ron Weasley,5.181333333333333
+851,Michael Corner,Padma Patil,5.341875
+852,Michael Corner,Terry Boot,5.3315789473684205
+853,Minerva McGonagall,Neville Longbottom,5.322187499999999
+854,Minerva McGonagall,Pansy Parkinson,5.624
+855,Minerva McGonagall,Pomona Sprout,5.379918699186992
+856,Minerva McGonagall,Ron Weasley,4.926031746031746
+857,Minerva McGonagall,Rubeus Hagrid,5.322187499999999
+858,Minerva McGonagall,Severus Snape,5.275531914893617
+859,Molly Weasley,Nymphadora Tonks,5.395999999999999
+860,Molly Weasley,Remus Lupin,5.069999999999999
+861,Molly Weasley,Ron Weasley,5.198235294117648
+862,Molly Weasley,Sirius Black,5.11243243243243
+863,Monsieur Delacour,Ron Weasley,5.4896
+864,Mundungus Fletcher,Nymphadora Tonks,5.4007843137254925
+865,Mundungus Fletcher,Petunia Dursley,5.408000000000003
+866,Mundungus Fletcher,Remus Lupin,5.392660550458717
+867,Mundungus Fletcher,Ron Weasley,5.326569343065697
+868,Mundungus Fletcher,Rubeus Hagrid,5.3592
+869,Mundungus Fletcher,Severus Snape,5.419230769230769
+870,Mundungus Fletcher,Sirius Black,5.0844680851063835
+871,Muriel,Rita Skeeter,5.41
+872,Muriel,Ron Weasley,5.331612903225806
+873,Muriel,Viktor Krum,5.3208
+874,Mykew Gregorovitch,Ron Weasley,5.195384615384616
+875,Mykew Gregorovitch,Viktor Krum,5.325176470588236
+876,Nagini,Ron Weasley,5.398787878787878
+877,Nagini,Severus Snape,5.307659574468086
+878,Narcissa Malfoy,Neville Longbottom,5.0009999999999994
+879,Narcissa Malfoy,Percy Weasley,5.0009999999999994
+880,Narcissa Malfoy,Pius Thicknesse,5.0009999999999994
+881,Narcissa Malfoy,Ron Weasley,5.072753623188407
+882,Neville Longbottom,Oliver Wood,5.255789473684211
+883,Neville Longbottom,Percy Weasley,5.0009999999999994
+884,Neville Longbottom,Pius Thicknesse,5.0009999999999994
+885,Neville Longbottom,Pomona Sprout,5.322187499999999
+886,Neville Longbottom,Ron Weasley,5.312780748663103
+887,Neville Longbottom,Rubeus Hagrid,5.317249999999998
+888,Neville Longbottom,Severus Snape,5.3514285714285705
+889,Norbert,Ron Weasley,5.572307692307691
+890,Norbert,Rubeus Hagrid,5.572307692307691
+891,Nymphadora Tonks,Petunia Dursley,5.408000000000003
+892,Nymphadora Tonks,Remus Lupin,5.424894366197183
+893,Nymphadora Tonks,Ron Weasley,5.334519230769232
+894,Nymphadora Tonks,Rubeus Hagrid,5.323251231527096
+895,Nymphadora Tonks,Ted,5.478571428571428
+896,Oliver Wood,Remus Lupin,5.296666666666666
+897,Padma Patil,Terry Boot,5.341875
+898,Parvati Patil,Travers,5.575555555555556
+899,Percival Dumbledore,Rita Skeeter,5.251282051282052
+900,Percy Weasley,Pius Thicknesse,5.0009999999999994
+901,Percy Weasley,Remus Lupin,4.98
+902,Percy Weasley,Ron Weasley,5.214835164835169
+903,Perkins,Ron Weasley,4.96391304347826
+904,Peter Pettigrew,Remus Lupin,5.394666666666667
+905,Peter Pettigrew,Ron Weasley,5.0608695652173905
+906,Peter Pettigrew,Sirius Black,5.450238095238096
+907,Petunia Dursley,Remus Lupin,5.408000000000003
+908,Petunia Dursley,Ron Weasley,5.392616822429909
+909,Petunia Dursley,Rubeus Hagrid,5.408000000000003
+910,Petunia Dursley,Severus Snape,5.35
+911,Petunia Dursley,Vernon Dursley,5.26208
+912,Phineas Nigellus Black,Severus Snape,5.246603773584908
+913,Phineas Nigellus Black,Sirius Black,5.005263157894737
+914,Phineas Nigellus Black,Sorting Hat,5.246603773584908
+915,Pigwidgeon,Ron Weasley,5.19842105263158
+916,Pius Thicknesse,Ron Weasley,4.935227272727272
+917,Pius Thicknesse,Rufus Scrimgeour,4.880416666666668
+918,Pomona Sprout,Rubeus Hagrid,5.322187499999999
+919,Pomona Sprout,Severus Snape,5.159370078740159
+920,Quirinus Quirrell,Severus Snape,5.332222222222223
+921,Reginald Cattermole,Ron Weasley,5.466857142857146
+922,Regulus Black,Ron Weasley,5.191219512195121
+923,Regulus Black,Rubeus Hagrid,4.859999999999999
+924,Regulus Black,Sirius Black,5.2436619718309885
+925,Remus Lupin,Ron Weasley,5.3941552511415525
+926,Remus Lupin,Rubeus Hagrid,5.355775862068972
+927,Remus Lupin,Severus Snape,5.326111111111112
+928,Remus Lupin,Sirius Black,5.3482142857142865
+929,Remus Lupin,Stan Shunpike,5.204
+930,Remus Lupin,Xenophilius Lovegood,5.569411764705883
+931,Rita Skeeter,Ron Weasley,5.410400000000001
+932,Roger Davies,Severus Snape,5.452000000000001
+933,Ron Weasley,Rose Zeller,5.302666666666667
+934,Ron Weasley,Rubeus Hagrid,5.244219948849107
+935,Ron Weasley,Rufus Scrimgeour,5.17716049382716
+936,Ron Weasley,Scabior,5.188717948717949
+937,Ron Weasley,Scorpius Malfoy,5.214285714285714
+938,Ron Weasley,Seamus Finnigan,5.345294117647059
+939,Ron Weasley,Severus Snape,5.262566844919786
+940,Ron Weasley,Sirius Black,5.230377358490567
+941,Ron Weasley,Stan Shunpike,5.468
+942,Ron Weasley,Travers,5.275000000000002
+943,Ron Weasley,Ulick Gamp,5.3912499999999985
+944,Ron Weasley,Vernon Dursley,5.138333333333334
+945,Ron Weasley,Viktor Krum,5.321052631578947
+946,Ron Weasley,Vincent Crabbe,5.184082840236687
+947,Ron Weasley,Wakanda,5.0073684210526315
+948,Ron Weasley,Xenophilius Lovegood,5.208368794326245
+949,Rubeus Hagrid,Severus Snape,5.182666666666666
+950,Rubeus Hagrid,Sirius Black,5.190681818181819
+951,Rubeus Hagrid,Thorfinn Rowle,5.231428571428572
+952,Rubeus Hagrid,Walden Macnair,4.9732258064516115
+953,Rufus Scrimgeour,Sorting Hat,5.408620689655173
+954,Scabior,Vernon Dursley,5.138333333333334
+955,Severus Snape,Sirius Black,5.3103225806451615
+956,Severus Snape,Sorting Hat,5.179102564102564
+957,Severus Snape,Ted,5.36388888888889
+958,Viktor Krum,Xenophilius Lovegood,5.289041095890411

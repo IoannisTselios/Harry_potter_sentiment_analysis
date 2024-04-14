@@ -1,0 +1,558 @@
+,name,house,species,blood_status,da,oof,de,first_name,last_name
+0,Vernon Dursley,,Human,Muggle,,,,Vernon,Dursley
+1,Petunia Dursley,,Human,Muggle,,,,Petunia,Dursley
+2,Dudley Dursley,,Human,Muggle,,,,Dudley,Dursley
+3,Lily Potter,Gryffindor,Human,Muggle-born,,Order of the Phoenix,,Lily,Potter
+4,James Potter,Gryffindor,Human,Pure-blood,,Order of the Phoenix,,James,Potter
+5,Harry Potter,Gryffindor,Human,Half-blood,Dumbledore's Army,Order of the Phoenix,,Harry,Potter
+6,Lord Voldemort,Slytherin,Human,Half-blood,,,Death Eaters,Lord,Voldemort
+7,Jim McGuffin,,Human,Muggle,,,,Jim,McGuffin
+8,Ted,,Human,Muggle,,,,Ted,
+9,Albus Dumbledore,Gryffindor,Human,Half-blood,Dumbledore's Army,Order of the Phoenix,,Albus,Dumbledore
+10,Minerva McGonagall,Gryffindor,Human,Half-blood,Dumbledore's Army,Order of the Phoenix,,Minerva,McGonagall
+11,Dedalus Diggle,,Human,Pure-blood,,Order of the Phoenix,,Dedalus,Diggle
+12,Poppy Pomfrey,,Human,Pure-blood,Dumbledore's Army,Order of the Phoenix,,Poppy,Pomfrey
+13,Rubeus Hagrid,Gryffindor,Human,Half-breed,,Order of the Phoenix,,Rubeus,Hagrid
+14,Sirius Black,Gryffindor,Human,Pure-blood,,Order of the Phoenix,,Sirius,Black
+15,Marge Dursley,,Human,Muggle,,,,Marge,Dursley
+16,Arabella Figg,,Human,Squib,,Order of the Phoenix,,Arabella,Figg
+17,Tibbles,,Magical creature,,,,,Tibbles,
+18,Snowy,,Magical creature,,,,,Snowy,
+19,Mr Paws,,Magical creature,,,,,,
+20,Tufty,,Magical creature,,,,,Tufty,
+21,Yvonne,,Human,Muggle,,,,Yvonne,
+22,Piers Polkiss,,Human,Muggle,,,,Piers,Polkiss
+23,A boa constrictor,,Animal,,,,,A,boa constrictor
+24,A gorilla,,Animal,,,,,A,gorilla
+25,Dennis,,Human,Muggle,,,,Dennis,
+26,Malcolm,,Human,Muggle,,,,Malcolm,
+27,Gordon,,Human,Muggle,,,,Gordon,
+28,Dudley's parrot,,Animal,,,,,,
+29,Dudley's tortoise,,Animal,,,,,,
+30,Merlin,Slytherin,Human,,,,,Merlin,
+31,Mr Evans,,Human,Muggle,,,,,
+32,Mrs Evans,,Human,Muggle,,,,,
+33,Cornelius Fudge,,Human,Pure-blood,,,,Cornelius,Fudge
+34,Miranda Goshawk,,Human,,,,,Miranda,Goshawk
+35,Bathilda Bagshot,,Human,,,,,Bathilda,Bagshot
+36,Adalbert Waffling,,Human,,,,,Adalbert,Waffling
+37,Emeric Switch,,Human,,,,,Emeric,Switch
+38,Phyllida Spore,,Human,,,,,Phyllida,Spore
+39,Arsenus Jigger,,Human,,,,,Arsenus,Jigger
+40,Newton Scamander,Hufflepuff,Human,Pure-blood,,,,Newton,Scamander
+41,Quentin Trimble,,Human,,,,,Quentin,Trimble
+42,Tom,,Human,,,,,Tom,
+43,Doris Crockford,,Human,,,,,Doris,Crockford
+44,Quirinus Quirrell,Ravenclaw,Human,Half-blood,,,Death Eaters,Quirinus,Quirrell
+45,Gringotts Head Goblin,,Goblin,,,,,Gringotts,Head Goblin
+46,Griphook,,Goblin,,,,,Griphook,
+47,Draco Malfoy,Slytherin,Human,Pure-blood,,,Death Eaters,Draco,Malfoy
+48,Lucius Malfoy,Slytherin,Human,Pure-blood,,,Death Eaters,Lucius,Malfoy
+49,Narcissa Malfoy,Slytherin,Human,Pure-blood,,,Death Eaters,Narcissa,Malfoy
+50,Vindictus Viridian,,Human,,,,,Vindictus,Viridian
+51,Hedwig,,Animal,,,,,Hedwig,
+52,Garrick Ollivander,Ravenclaw,Human,Half-blood,,,,Garrick,Ollivander
+53,Ginny Weasley,Gryffindor,Human,Pure-blood,Dumbledore's Army,Order of the Phoenix,,Ginny,Weasley
+54,Molly Weasley,Gryffindor,Human,Pure-blood,,Order of the Phoenix,,Molly,Weasley
+55,Percy Weasley,Gryffindor,Human,Pure-blood,,,,Percy,Weasley
+56,Fred Weasley,Gryffindor,Human,Pure-blood,Dumbledore's Army,Order of the Phoenix,,Fred,Weasley
+57,George Weasley,Gryffindor,Human,Pure-blood,Dumbledore's Army,Order of the Phoenix,,George,Weasley
+58,Ron Weasley,Gryffindor,Human,Pure-blood,Dumbledore's Army,Order of the Phoenix,,Ron,Weasley
+59,Neville Longbottom,Gryffindor,Human,Pure-blood,Dumbledore's Army,Order of the Phoenix,,Neville,Longbottom
+60,Augusta Longbottom,,Human,Pure-blood,,Order of the Phoenix,,Augusta,Longbottom
+61,Lee Jordan,Gryffindor,Human,Pure-blood,Dumbledore's Army,Order of the Phoenix,,Lee,Jordan
+62,Bill Weasley,Gryffindor,Human,Pure-blood,,Order of the Phoenix,,Bill,Weasley
+63,Charlie Weasley,Gryffindor,Human,Pure-blood,,Order of the Phoenix,,Charlie,Weasley
+64,Arthur Weasley,Gryffindor,Human,Pure-blood,,Order of the Phoenix,,Arthur,Weasley
+65,Peter Pettigrew,Gryffindor,Human,Pure-blood,,Order of the Phoenix,Death Eaters,Peter,Pettigrew
+66,Trolley witch,,Human,,,,,,
+67,Cornelius Agrippa,,Human,,,,,Cornelius,Agrippa
+68,Claudius Ptolemy,,Human,,,,,Claudius,Ptolemy
+69,Gellert Grindelwald,,Human,Pure-blood,,,,Gellert,Grindelwald
+70,Nicolas Flamel,,Human,,,,,Nicolas,Flamel
+71,Morgan le Fay,,Human,,,,,Morgan,le Fay
+72,Hengist of Woodcroft,Hufflepuff,Human,,,,,Hengist,of Woodcroft
+73,Alberic Grunnion,,Human,,,,,Alberic,Grunnion
+74,Circe,,Human,,,,,Circe,
+75,Paracelsus,,Human,,,,,Paracelsus,
+76,Cliodna,,Human,,,,,Cliodna,
+77,Bertie Bott,,Human,,,,,Bertie,Bott
+78,Trevor,,Animal,,,,,Trevor,
+79,Hermione Granger,Gryffindor,Human,Muggle-born,Dumbledore's Army,Order of the Phoenix,,Hermione,Granger
+80,Vincent Crabbe,Slytherin,Human,Pure-blood,,,Death Eaters,Vincent,Crabbe
+81,Gregory Goyle,Slytherin,Human,Pure-blood,,,Death Eaters,Gregory,Goyle
+82,Hermes,,Animal,,,,,Hermes,
+83,Fat Friar,Hufflepuff,Human,,,,,Fat,Friar
+84,Sorting Hat,,Magical object,,,,,,
+85,Hannah Abbott,Hufflepuff,Human,Half-blood,Dumbledore's Army,,,Hannah,Abbott
+86,Susan Bones,Hufflepuff,Human,Half-blood,Dumbledore's Army,,,Susan,Bones
+87,Terry Boot,Ravenclaw,Human,Pure-blood,Dumbledore's Army,,,Terry,Boot
+88,Mandy Brocklehurst,Ravenclaw,Human,Half-blood,,,,Mandy,Brocklehurst
+89,Lavender Brown,Gryffindor,Human,Pure-blood,Dumbledore's Army,,,Lavender,Brown
+90,Millicent Bulstrode,Slytherin,Human,Half-blood,,,,Millicent,Bulstrode
+91,Justin Finch-Fletchley,Hufflepuff,Human,Muggle-born,Dumbledore's Army,,,Justin,Finch-Fletchley
+92,Seamus Finnigan,Gryffindor,Human,Half-blood,Dumbledore's Army,,,Seamus,Finnigan
+93,Morag MacDougal,Ravenclaw,Human,Pure-blood,,,,Morag,MacDougal
+94,Lily Moon,Gryffindor,Human,,,,,Lily,Moon
+95,Theodore Nott,Slytherin,Human,Pure-blood,,,Death Eaters,Theodore,Nott
+96,Pansy Parkinson,Slytherin,Human,Pure-blood,,,Death Eaters,Pansy,Parkinson
+97,Padma Patil,Ravenclaw,Human,Pure-blood,Dumbledore's Army,,,Padma,Patil
+98,Parvati Patil,Gryffindor,Human,Pure-blood,Dumbledore's Army,,,Parvati,Patil
+99,Sally-Anne Perks,Gryffindor,Human,,,,,Sally-Anne,Perks
+100,Dean Thomas,Gryffindor,Human,Half-blood,Dumbledore's Army,,,Dean,Thomas
+101,Lisa Turpin,Ravenclaw,Human,,,,,Lisa,Turpin
+102,Blaise Zabini,Slytherin,Human,Pure-blood,,,,Blaise,Zabini
+103,Nearly-Headless Nick,Gryffindor,Human,,,,,Nearly-Headless,Nick
+104,Bloody Baron,Slytherin,Human,Pure-blood,,,,Bloody,Baron
+105,Mr Finnigan,,Human,Muggle,,,,,
+106,Mrs Finnigan,Gryffindor,Human,,,,,,
+107,Algie,,Human,,,,,Algie,
+108,Severus Snape,Slytherin,Human,Half-blood,,Order of the Phoenix,Death Eaters,Severus,Snape
+109,Argus Filch,,Human,Squib,,,,Argus,Filch
+110,Rolanda Hooch,,Human,,,,,Rolanda,Hooch
+111,Fat Lady,Gryffindor,Human,,,,,Fat,Lady
+112,Mrs Norris,,Animal,,,,,,
+113,Pomona Sprout,Hufflepuff,Human,Pure-blood,Dumbledore's Army,Order of the Phoenix,,Pomona,Sprout
+114,Cuthbert Binns,,Human,,,,,Cuthbert,Binns
+115,Emeric the Evil,,Human,,,,,Emeric,the Evil
+116,Uric the Oddball,Ravenclaw,Human,,,,,Uric,the Oddball
+117,Filius Flitwick,Ravenclaw,Human,Half-breed,Dumbledore's Army,Order of the Phoenix,,Filius,Flitwick
+118,Fang,,Animal,,,,,Fang,
+119,Oliver Wood,Gryffindor,Human,Pure-blood,Dumbledore's Army,Order of the Phoenix,,Oliver,Wood
+120,Helena Ravenclaw,Ravenclaw,Human,Pure-blood,,,,Helena,
+121,Draco Malfoy's eagle owl,,Animal,,,,,,
+122,Gregory the Smarmy,,Human,,,,,Gregory,the Smarmy
+123,Fluffy,,Magical creature,,,,,Fluffy,
+124,Baruffio,,Human,,,,,Baruffio,
+125,Angelina Johnson,Gryffindor,Human,,Dumbledore's Army,,,Angelina,Johnson
+126,Marcus Flint,Slytherin,Human,Pure-blood,,,,Marcus,Flint
+127,Alicia Spinnet,Gryffindor,Human,Pure-blood,Dumbledore's Army,,,Alicia,Spinnet
+128,Katie Bell,Gryffindor,Human,Pure-blood,Dumbledore's Army,,,Katie,Bell
+129,Miles Bletchley,Slytherin,Human,,,,,Miles,Bletchley
+130,Adrian Pucey,Slytherin,Human,,,,,Adrian,Pucey
+131,Terence Higgs,Slytherin,Human,,,,,Terence,Higgs
+132,Irma Pince,,Human,,,,,Irma,Pince
+133,Perenelle Flamel,,Human,,,,,Perenelle,Flamel
+134,Norbert,,Magical creature,,,,,Norbert,
+135,Ronan,,Centaur,,,,,Ronan,
+136,Bane,,Centaur,,,,,Bane,
+137,Firenze,,Centaur,,Dumbledore's Army,Order of the Phoenix,,Firenze,
+138,Elfric the Eager,,Goblin,,,,,Elfric,the Eager
+139,Giant Squid,,Magical creature,,,,,Giant,Squid
+140,Mr Mason,,Human,Muggle,,,,,
+141,Mrs Mason,,Human,Muggle,,,,,
+142,Dobby,,House-elf,,Dumbledore's Army,Order of the Phoenix,,Dobby,
+143,Mafalda Hopkirk,,Human,Pure-blood,,,Death Eaters,Mafalda,Hopkirk
+144,Errol,,Animal,,,,,Errol,
+145,Perkins,,Human,,,,,Perkins,
+146,Celestina Warbeck,Gryffindor,Human,Half-blood,,,,Celestina,Warbeck
+147,Gilderoy Lockhart,Ravenclaw,Human,Half-blood,,,,Gilderoy,Lockhart
+148,Mundungus Fletcher,,Human,Half-blood,,Order of the Phoenix,,Mundungus,Fletcher
+149,Mortlake,,Human,,,,,Mortlake,
+150,Martin Miggs,,Human,Muggle,,,,Martin,Miggs
+151,Mr Borgin,,Human,Pure-blood,,,,,
+152,Mr Granger,,Human,Muggle,,,,,
+153,Mrs Granger,,Human,Muggle,,,,,
+154,Bozo,,Human,,,,,Bozo,
+155,Hetty Bayliss,,Human,Muggle,,,,Hetty,Bayliss
+156,Angus Fleet,,Human,Muggle,,,,Angus,Fleet
+157,Colin Creevey,Gryffindor,Human,Muggle-born,Dumbledore's Army,,,Colin,Creevey
+158,Mr Creevey,,Human,Muggle,,,,,
+159,Gladys Gudgeon,,Human,,,,,Gladys,Gudgeon
+160,Veronica Smethley,,Human,,,,,Veronica,Smethley
+161,Sir Patrick Delaney-Podmore,,Human,,,,,Sir,Patrick Delaney-Podmore
+162,Z. Nettles,,Human,,,,,Z.,Nettles
+163,D.J. Prod,,Human,,,,,D.J.,Prod
+164,Portly ghost,,Human,,,,,Portly,ghost
+165,Myrtle Warren,Ravenclaw,Human,Muggle-born,,,,Myrtle,Warren
+166,Wailing Widow,,Human,,,,,Wailing,Widow
+167,Mrs Skower,,Human,,,,,,
+168,Godric Gryffindor,Gryffindor,Human,Pure-blood,,,,Godric,
+169,Helga Hufflepuff,Hufflepuff,Human,Pure-blood,,,,Helga,
+170,Rowena Ravenclaw,Ravenclaw,Human,Pure-blood,,,,Rowena,
+171,Salazar Slytherin,Slytherin,Human,Pure-blood,,,,Salazar,
+172,Wagga Wagga Werewolf,,Human,,,,,Wagga,Wagga Werewolf
+173,Ernie Macmillan,Hufflepuff,Human,Pure-blood,Dumbledore's Army,,,Ernie,Macmillan
+174,S. Fawcett,Ravenclaw,Human,,,,,S.,Fawcett
+175,Aurora Sinistra,,Human,,,,,Aurora,Sinistra
+176,Fawkes,,Magical creature,,,Order of the Phoenix,,Fawkes,
+177,Penelope Clearwater,Ravenclaw,Human,Muggle-born,,,,Penelope,Clearwater
+178,Millicent Bulstrode's cat,,Animal,,,,,,
+179,Armando Dippet,,Human,,,,,Armando,Dippet
+180,Aragog,,Magical creature,,,,,Aragog,
+181,Mosag,,Magical creature,,,,,Mosag,
+182,Olive Hornby,,Human,,,,,Olive,Hornby
+183,Merope Riddle,,Human,Pure-blood,,,,Merope,Riddle
+184,Serpent of Slytherin,,Magical creature,,,,,Serpent,of Slytherin
+185,Wendelin the Weird,,Human,,,,,Wendelin,the Weird
+186,Fleetwood,,Human,,,,,Fleetwood,
+187,Ripper,,Animal,,,,,Ripper,
+188,Fubster,,Human,Muggle,,,,Fubster,
+189,Stan Shunpike,,Human,Pure-blood,,,Death Eaters,Stan,Shunpike
+190,Ernie Prang,Gryffindor,Human,,,,,Ernie,Prang
+191,Marsh,,Human,,,,,Marsh,
+192,Florean Fortescue,,Human,,,,,Florean,Fortescue
+193,Cassandra Vablatsky,,Human,,,,,Cassandra,Vablatsky
+194,Crookshanks,,Magical creature,,,,,Crookshanks,
+195,Remus Lupin,Gryffindor,Human,Half-blood,,Order of the Phoenix,,Remus,Lupin
+196,Silvanus Kettleburn,Hufflepuff,Human,Pure-blood,,,,Silvanus,Kettleburn
+197,Dementor,,Magical creature,,,,,Dementor,
+198,Cadogan,Gryffindor,Human,Pure-blood,,,,Cadogan,
+199,Sybill Trelawney,Ravenclaw,Human,Half-blood,Dumbledore's Army,Order of the Phoenix,,Sybill,Trelawney
+200,Bilius,,Human,Pure-blood,,,,Bilius,
+201,Buckbeak,,Magical creature,,Dumbledore's Army,Order of the Phoenix,,Buckbeak,
+202,Boggart,,Magical creature,,,,,Boggart,
+203,Binky,,Animal,,,,,Binky,
+204,Grindylow,,Magical creature,,,,,Grindylow,
+205,Cedric Diggory,Hufflepuff,Human,Pure-blood,,,Death Eaters,Cedric,Diggory
+206,Hinkypunk,,Magical creature,,,,,Hinkypunk,
+207,Davey Gudgeon,,Human,,,,,Davey,Gudgeon
+208,Ambrosius Flume,,Human,,,,,Ambrosius,Flume
+209,Rosmerta,,Human,,,,,Rosmerta,
+210,Derek,,Human,,,,,Derek,
+211,Septima Vector,,Human,,,,,Septima,Vector
+212,Cho Chang,Ravenclaw,Human,Pure-blood,Dumbledore's Army,,,Cho,Chang
+213,Roger Davies,Ravenclaw,Human,,,,,Roger,Davies
+214,Cassius Warrington,Slytherin,Human,,,,,Cassius,Warrington
+215,Graham Montague,Slytherin,Human,,,,,Graham,Montague
+216,Peregrine Derrick,Slytherin,Human,,,,,Peregrine,Derrick
+217,Lucian Bole,Slytherin,Human,,,,,Lucian,Bole
+218,Walden Macnair,,Human,Pure-blood,,,Death Eaters,Walden,Macnair
+219,Lyall Lupin,,Human,Pure-blood,,,,Lyall,Lupin
+220,Hope Lupin,,Human,Muggle,,,,Hope,Lupin
+221,Pigwidgeon,,Animal,,,,,Pigwidgeon,
+222,Mary Riddle,,Human,Muggle,,,,Mary,Riddle
+223,Thomas Riddle,,Human,Muggle,,,,Thomas,Riddle
+224,Frank Bryce,,Human,Muggle,,,,Frank,Bryce
+225,Dot,,Human,Muggle,,,,Dot,
+226,Nagini,,Magical creature,,,,,Nagini,
+227,Bertha Jorkins,,Human,,,,,Bertha,Jorkins
+228,Barty Crouch Snr,,Human,Pure-blood,,,,Barty,Crouch Snr
+229,Ludo Bagman,,Human,Pure-blood,,,,Ludo,Bagman
+230,Otto Bagman,,Human,Pure-blood,,,,Otto,Bagman
+231,Viktor Krum,,Human,Pure-blood,,,,Viktor,Krum
+232,Amos Diggory,,Human,Pure-blood,,,,Amos,Diggory
+233,Basil,,Human,Pure-blood,,,,Basil,
+234,Mr Roberts,,Human,Muggle,,,,,
+235,Mr Payne,,Human,Muggle,,,,,
+236,Kevin,,Human,,,,,Kevin,
+237,Archie Aymslowe,,Human,,,,,Archie,Aymslowe
+238,Mr Wood,,Human,,,,,,
+239,Mrs Wood,,Human,,,,,,
+240,Cuthbert Mockridge,,Human,,,,,Cuthbert,Mockridge
+241,Gilbert Wimple,,Human,,,,,Gilbert,Wimple
+242,Arnold Peasegood,,Human,,,,,Arnold,Peasegood
+243,Broderick Bode,,Human,,,,,Broderick,Bode
+244,Saul Croaker,,Human,,,,,Saul,Croaker
+245,Roddy Pontner,,Human,,,,,Roddy,Pontner
+246,Agatha Timms,,Human,,,,,Agatha,Timms
+247,Ali Bashir,,Human,,,,,Ali,Bashir
+248,Winky,,House-elf,,,,,Winky,
+249,Mungo Bonham,,Human,,,,,Mungo,Bonham
+250,Vasily Dimitrov,,Human,,,,,Vasily,Dimitrov
+251,Clara Ivanova,,Human,,,,,Clara,Ivanova
+252,Lev Zograf,,Human,,,,,Lev,Zograf
+253,Alexei Levski,,Human,,,,,Alexei,Levski
+254,Pyotr Vulchanov,,Human,,,,,Pyotr,Vulchanov
+255,Ivan Volkov,,Human,,,,,Ivan,Volkov
+256,Connolly,,Human,,,,,Connolly,
+257,Barry Ryan,,Human,,,,,Barry,Ryan
+258,Troy,,Human,,,,,Troy,
+259,Mullet,,Human,,,,,Mullet,
+260,Moran,,Human,,,,,Moran,
+261,Quigley,,Human,,,,,Quigley,
+262,Aidan Lynch,,Human,,,,,Aidan,Lynch
+263,Hassan Mostafa,,Human,,,,,Hassan,Mostafa
+264,Mrs Roberts,,Human,Muggle,,,,,
+265,Olympe Maxime,,Human,Half-breed,,Order of the Phoenix,,Olympe,Maxime
+266,Rita Skeeter,,Human,Pure-blood,,Order of the Phoenix,,Rita,Skeeter
+267,Alastor Moody,,Human,Pure-blood,,Order of the Phoenix,,Alastor,Moody
+268,Dennis Creevey,Gryffindor,Human,Muggle-born,Dumbledore's Army,,,Dennis,Creevey
+269,Stewart Ackerley,Ravenclaw,Human,,,,,Stewart,Ackerley
+270,Malcolm Baddock,Slytherin,Human,,,,,Malcolm,Baddock
+271,Eleanor Branstone,Hufflepuff,Human,,,,,Eleanor,Branstone
+272,Owen Cauldwell,Hufflepuff,Human,,,,,Owen,Cauldwell
+273,Emma Dobbs,,Human,,,,,Emma,Dobbs
+274,Laura Madley,Hufflepuff,Human,,,,,Laura,Madley
+275,Natalie McDonald,Gryffindor,Human,,,,,Natalie,McDonald
+276,Graham Pritchard,Slytherin,Human,,,,,Graham,Pritchard
+277,Orla Quirke,Ravenclaw,Human,,,,,Orla,Quirke
+278,Kevin Whitby,Hufflepuff,Human,,,,,Kevin,Whitby
+279,Barty Crouch Jr,,Human,Pure-blood,,,Death Eaters,Barty,Crouch Jr
+280,Eloise Midgeon,Gryffindor,Human,,,,,Eloise,Midgeon
+281,Igor Karkaroff,,Human,Pure-blood,,,Death Eaters,Igor,Karkaroff
+282,Poliakoff,,Human,Pure-blood,,,,Poliakoff,
+283,Summers,Hufflepuff,Human,,,,,Summers,
+284,Fleur Delacour,,Human,Half-breed,,Order of the Phoenix,,Fleur,Delacour
+285,Violet,,Human,,,,,Violet,
+286,Mykew Gregorovitch,,Human,,,,,Mykew,Gregorovitch
+287,Winky's mother,,House-elf,,,,,,
+288,Winky's grandmother,,House-elf,,,,,,
+289,Joey Jenkins,,Human,,,,,Joey,Jenkins
+290,Stebbins,Hufflepuff,Human,,,,,Stebbins,
+291,Fridwulfa,,Giant,,,,,Fridwulfa,
+292,Wilhelmina Grubbly-Plank,,Human,,,,,Wilhelmina,Grubbly-Plank
+293,Aberforth Dumbledore,,Human,Half-blood,,Order of the Phoenix,,Aberforth,Dumbledore
+294,Gabrielle Delacour,,Human,Half-breed,,,,Gabrielle,Delacour
+295,Murcus,,Magical creature,,,,,Murcus,
+296,Mrs Crouch,,Human,Pure-blood,,,,,
+297,Evan Rosier,Slytherin,Human,Pure-blood,,,Death Eaters,Evan,Rosier
+298,Wilkes,Slytherin,Human,,,,Death Eaters,Wilkes,
+299,Bellatrix Lestrange,Slytherin,Human,Pure-blood,,,Death Eaters,Bellatrix,Lestrange
+300,Rodolphus Lestrange,Slytherin,Human,Pure-blood,,,Death Eaters,Rodolphus,Lestrange
+301,Avery,Slytherin,Human,Pure-blood,,,Death Eaters,Avery,
+302,Mrs Fudge,,Human,,,,,,
+303,Antonin Dolohov,,Human,Pure-blood,,,Death Eaters,Antonin,Dolohov
+304,Travers,,Human,Pure-blood,,,Death Eaters,Travers,
+305,Mulciber,Slytherin,Human,Pure-blood,,,Death Eaters,Mulciber,
+306,Augustus Rookwood,,Human,Pure-blood,,,Death Eaters,Augustus,Rookwood
+307,Rabastan Lestrange,Slytherin,Human,Pure-blood,,,Death Eaters,Rabastan,Lestrange
+308,Frank Longbottom,,Human,Pure-blood,,Order of the Phoenix,,Frank,Longbottom
+309,Alice Longbottom,,Human,Pure-blood,,Order of the Phoenix,,Alice,Longbottom
+310,Florence,,Human,,,,,Florence,
+311,Apolline Delacour,,Human,Half-breed,,,,Apolline,Delacour
+312,Mrs Diggory,,Human,Pure-blood,,,,,
+313,Mr Krum,,Human,,,,,,
+314,Mrs Krum,,Human,,,,,,
+315,Apollyon Pringle,,Human,Squib,,,,Apollyon,Pringle
+316,Ogg,,Human,,,,,Ogg,
+317,Bodrod the Bearded,,Goblin,,,,,Bodrod,the Bearded
+318,Urg the Unclean,,Goblin,,,,,Urg,the Unclean
+319,Crabbe,Slytherin,Human,Pure-blood,,,Death Eaters,Crabbe,
+320,Goyle,Slytherin,Human,Pure-blood,,,Death Eaters,Goyle,
+321,Nott,,Human,Pure-blood,,,Death Eaters,Nott,
+322,Mary Dorkins,,Human,Muggle,,,,Mary,Dorkins
+323,Mrs Number Seven,,Human,Muggle,,,,,
+324,Mark Evans,,Human,Muggle,,,,Mark,Evans
+325,Mr Prentice,,Human,Muggle,,,,,
+326,Nymphadora Tonks,Hufflepuff,Human,Half-blood,,Order of the Phoenix,,Nymphadora,Tonks
+327,Kingsley Shacklebolt,,Human,Pure-blood,,Order of the Phoenix,,Kingsley,Shacklebolt
+328,Elphias Doge,,Human,Pure-blood,,Order of the Phoenix,,Elphias,Doge
+329,Emmeline Vance,,Human,,,Order of the Phoenix,,Emmeline,Vance
+330,Sturgis Podmore,,Human,,,Order of the Phoenix,,Sturgis,Podmore
+331,Hestia Jones,,Human,Pure-blood,,Order of the Phoenix,,Hestia,Jones
+332,Edward Tonks,,Human,Muggle-born,,Order of the Phoenix,,Edward,Tonks
+333,Andromeda Tonks,Slytherin,Human,Pure-blood,,Order of the Phoenix,,Andromeda,Tonks
+334,Kreacher,,House-elf,,,,,Kreacher,
+335,Walburga Black,Slytherin,Human,Pure-blood,,,Death Eaters,Walburga,Black
+336,Phineas Nigellus Black,Slytherin,Human,Pure-blood,,,,Phineas,Nigellus Black
+337,Kreacher's mother,,House-elf,,,,,,
+338,Ragnok,,Goblin,,,,,Ragnok,
+339,Will,,Human,,,,,Will,
+340,Warty Harris,,Human,,,,,Warty,Harris
+341,Millicent Bagnold,Ravenclaw,Human,,,,,Millicent,Bagnold
+342,Fleamont Potter,Gryffindor,Human,Pure-blood,,,,Fleamont,Potter
+343,Euphemia Potter,,Human,Pure-blood,,,,Euphemia,Potter
+344,Alphard Black,Slytherin,Human,Pure-blood,,,,Alphard,Black
+345,Orion Black,Slytherin,Human,Pure-blood,,,Death Eaters,Orion,Black
+346,Regulus Black,Slytherin,Human,Pure-blood,,,Death Eaters,Regulus,Black
+347,Araminta Meliflua,Slytherin,Human,Pure-blood,,,,Araminta,Meliflua
+348,Elladora Black,Slytherin,Human,Pure-blood,,,,Elladora,Black
+349,Arcturus Black III,Slytherin,Human,Pure-blood,,,,Arcturus,Black III
+350,Rufus Scrimgeour,,Human,,,,,Rufus,Scrimgeour
+351,Amelia Bones,,Human,Pure-blood,,Order of the Phoenix,,Amelia,Bones
+352,Eric Munch,,Human,,,,,Eric,Munch
+353,Bob,,Human,,,,,Bob,
+354,Dolores Umbridge,Slytherin,Human,Half-blood,,,Death Eaters,Dolores,Umbridge
+355,Wilbert Slinkhard,,Human,,,,,Wilbert,Slinkhard
+356,Marlene McKinnon,,Human,,,Order of the Phoenix,,Marlene,McKinnon
+357,Benjy Fenwick,,Human,,,Order of the Phoenix,,Benjy,Fenwick
+358,Edgar Bones,,Human,Pure-blood,,Order of the Phoenix,,Edgar,Bones
+359,Caradoc Dearborn,,Human,,,Order of the Phoenix,,Caradoc,Dearborn
+360,Gideon Prewett,,Human,Pure-blood,,Order of the Phoenix,,Gideon,Prewett
+361,Fabian Prewett,,Human,Pure-blood,,Order of the Phoenix,,Fabian,Prewett
+362,Dorcas Meadowes,,Human,,,Order of the Phoenix,,Dorcas,Meadowes
+363,Luna Lovegood,Ravenclaw,Human,Pure-blood,Dumbledore's Army,Order of the Phoenix,,Luna,Lovegood
+364,Anthony Goldstein,Ravenclaw,Human,Half-blood,Dumbledore's Army,,,Anthony,Goldstein
+365,Doris Purkiss,,Human,,,,,Doris,Purkiss
+366,Stubby Boardman,,Human,,,,,Stubby,Boardman
+367,Xenophilius Lovegood,Ravenclaw,Human,Pure-blood,,Order of the Phoenix,,Xenophilius,Lovegood
+368,Euan Abercrombie,Gryffindor,Human,,,,,Euan,Abercrombie
+369,Rose Zeller,Hufflepuff,Human,,,,,Rose,Zeller
+370,Patricia Stimpson,,Human,,,,,Patricia,Stimpson
+371,Kenneth Towler,Gryffindor,Human,,,,,Kenneth,Towler
+372,Inigo Imago,,Human,,,,,Inigo,Imago
+373,Lachlan the Lanky,,Human,,,,,Lachlan,the Lanky
+374,Vicky Frobisher,Gryffindor,Human,,,,,Vicky,Frobisher
+375,Geoffrey Hooper,Gryffindor,Human,,,,,Geoffrey,Hooper
+376,Wilfred the Wistful,,Human,,,,,Wilfred,the Wistful
+377,Mrs Chang,Ravenclaw,Human,,,,,,
+378,Donaghan Tremlett,,Human,Muggle-born,,,,Donaghan,Tremlett
+379,Griselda Marchbanks,,Human,,,,,Griselda,Marchbanks
+380,Tiberius Ogden,,Human,,,,,Tiberius,Ogden
+381,Cassandra Trelawney,,Human,,,,,Cassandra,Trelawney
+382,Marietta Edgecombe,Ravenclaw,Human,Pure-blood,Dumbledore's Army,,,Marietta,Edgecombe
+383,Michael Corner,Ravenclaw,Human,Half-blood,Dumbledore's Army,,,Michael,Corner
+384,Zacharias Smith,Hufflepuff,Human,Pure-blood,Dumbledore's Army,,,Zacharias,Smith
+385,Mr Edgecombe,,Human,,,,,,
+386,Madam Edgecombe,,Human,,,,,Madam,Edgecombe
+387,Mr Chang,,Human,Half-blood,,,,,
+388,Ladislaw Zamojski,,Human,,,,,Ladislaw,Zamojski
+389,Karkus,,Giant,,,,,Karkus,
+390,Karkus' wife,,Giant,,,,,,
+391,Golgomath,,Giant,,,,Death Eaters,Golgomath,
+392,Tenebrus,,Magical creature,,,,,Tenebrus,
+393,Andrew Kirke,Gryffindor,Human,,,,,Andrew,Kirke
+394,Jack Sloper,Gryffindor,Human,,,,,Jack,Sloper
+395,Everard,,Human,,,,,Everard,
+396,Dilys Derwent,,Human,,,,,Dilys,Derwent
+397,Elfrida Cragg,,Human,,,,,Elfrida,Cragg
+398,Dexter Fortescue,,Human,,,,,Dexter,Fortescue
+399,Dai Llewellyn,,Human,,,,,Dai,Llewellyn
+400,Hippocrates Smethwyck,,Human,,,,,Hippocrates,Smethwyck
+401,Augustus Pye,,Human,,,,,Augustus,Pye
+402,Urquhart Rackharrow,,Human,,,,,Urquhart,Rackharrow
+403,Willy Widdershins,,Human,,,,,Willy,Widdershins
+404,Miriam Strout,,Human,,,,,Miriam,Strout
+405,Janus Thickey,,Human,,,,,Janus,Thickey
+406,Agnes,,Human,,,,,Agnes,
+407,Puddifoot,,Human,,,,,Puddifoot,
+408,Summerby,Hufflepuff,Human,,,,,Summerby,
+409,Tobias Snape,,Human,Muggle,,,,Tobias,Snape
+410,Eileen Prince,Slytherin,Human,Pure-blood,,,,Eileen,Prince
+411,John Dawlish,,Human,Pure-blood,,,Death Eaters,John,Dawlish
+412,Stebbins,,Human,,,,,Stebbins,
+413,Mr Montague,,Human,,,,,,
+414,Mrs Montague,,Human,,,,,,
+415,Bradley,Ravenclaw,Human,,,,,Bradley,
+416,Grawp,,Giant,Giant,,Order of the Phoenix,,Grawp,
+417,Magorian,,Centaur,,,,,Magorian,
+418,Chambers,Ravenclaw,Human,,,,,Chambers,
+419,Eddie Carmichael,Ravenclaw,Human,,,,,Eddie,Carmichael
+420,Harold Dingle,,Human,,,,,Harold,Dingle
+421,Daphne Greengrass,Slytherin,Human,Pure-blood,,,,Daphne,Greengrass
+422,Tofty,,Human,,,,,Tofty,
+423,Pierre Bonaccord,,Human,,,,,Pierre,Bonaccord
+424,Jugson,,Human,Pure-blood,,,Death Eaters,Jugson,
+425,Williamson,,Human,,,,,Williamson,
+426,Pandora Lovegood,Ravenclaw,Human,,,,,Pandora,Lovegood
+427,Mrs Goyle,,Human,Pure-blood,,,,,
+428,Herbert Chorley,,Human,Muggle,,,,Herbert,Chorley
+429,Ulick Gamp,,Human,Pure-blood,,,,Ulick,Gamp
+430,Fox near Spinner's End,,Animal,,,,,,
+431,Corban Yaxley,,Human,Pure-blood,,,Death Eaters,Corban,Yaxley
+432,Amycus Carrow,Slytherin,Human,Pure-blood,,,Death Eaters,Amycus,Carrow
+433,Alecto Carrow,Slytherin,Human,Pure-blood,,,Death Eaters,Alecto,Carrow
+434,Fenrir Greyback,,Human,,,,Death Eaters,Fenrir,Greyback
+435,Horace Slughorn,Slytherin,Human,Pure-blood,Dumbledore's Army,Order of the Phoenix,,Horace,Slughorn
+436,Dirk Cresswell,,Human,Muggle-born,,,,Dirk,Cresswell
+437,Barnabus Cuffe,,Human,,,,,Barnabus,Cuffe
+438,Ciceron Harkiss,,Human,,,,,Ciceron,Harkiss
+439,Gwenog Jones,,Human,,,,,Gwenog,Jones
+440,Arkie Philpott,,Human,,,,,Arkie,Philpott
+441,Verity,,Human,,,,,Verity,
+442,Arnold,,Magical creature,,,,,Arnold,
+443,Romilda Vane,Gryffindor,Human,Pure-blood,Dumbledore's Army,,,Romilda,Vane
+444,Cormac McLaggen,Gryffindor,Human,Pure-blood,Dumbledore's Army,,,Cormac,McLaggen
+445,Marcus Belby,Ravenclaw,Human,Pure-blood,,,,Marcus,Belby
+446,Damocles,,Human,,,,,Damocles,
+447,Mr Belby,Ravenclaw,Human,,,,,,
+448,Tiberius,,Human,,,,,Tiberius,
+449,Bertie Higgs,,Human,,,,,Bertie,Higgs
+450,Proudfoot,,Human,,,,,Proudfoot,
+451,Savage,,Human,,,,,Savage,
+452,Libatius Borage,,Human,,,,,Libatius,Borage
+453,Hector Dagworth-Granger,,Human,Pure-blood,,,,Hector,Dagworth-Granger
+454,Abraxas Malfoy,Slytherin,Human,Pure-blood,,,,Abraxas,Malfoy
+455,Humphrey Belcher,,Human,,,,,Humphrey,Belcher
+456,Bob Ogden,,Human,Pure-blood,,,,Bob,Ogden
+457,Marvolo Gaunt,,Human,Pure-blood,,,,Marvolo,Gaunt
+458,Morfin Gaunt,,Human,Pure-blood,,,,Morfin,Gaunt
+459,Cecilia,,Human,Muggle,,,,Cecilia,
+460,Mr Patil,,Human,,,,,,
+461,Mrs Patil,,Human,,,,,,
+462,Mr Midgen,Gryffindor,Human,Pure-blood,,,,,
+463,Mrs Abbott,,Human,,,,,,
+464,Demelza Robins,Gryffindor,Human,,,,,Demelza,Robins
+465,Jimmy Peakes,Gryffindor,Human,Pure-blood,,,,Jimmy,Peakes
+466,Ritchie Coote,Gryffindor,Human,,,,,Ritchie,Coote
+467,Melinda Bobbin,,Human,Pure-blood,,,,Melinda,Bobbin
+468,Leanne,Hufflepuff,Human,Pure-blood,Dumbledore's Army,,,Leanne,
+469,Caractacus Burke,,Human,Pure-blood,,,,Caractacus,Burke
+470,Mrs Cole,,Human,Muggle,,,,,
+471,Billy Stubbs,,Human,Muggle,,,,Billy,Stubbs
+472,Eric Whalley,,Human,Muggle,,,,Eric,Whalley
+473,Amy Benson,,Human,Muggle,,,,Amy,Benson
+474,Dennis Bishop,,Human,Muggle,,,,Dennis,Bishop
+475,Muriel,,Human,Pure-blood,,Order of the Phoenix,,Muriel,
+476,Vaisey,Slytherin,Human,,,,,Vaisey,
+477,Urquhart,Slytherin,Human,,,,,Urquhart,
+478,Harper,Slytherin,Human,Pure-blood,,,,Harper,
+479,Eldred Worple,,Human,,,,,Eldred,Worple
+480,Sanguini,,Magical creature,,,,,Sanguini,
+481,Gawain Robards,,Human,,,,,Gawain,Robards
+482,Fergus,,Human,,,,,Fergus,
+483,Galatea Merrythought,,Human,,,,,Galatea,Merrythought
+484,Lestrange,Slytherin,Human,Pure-blood,,,,Lestrange,
+485,Avery,Slytherin,Human,Pure-blood,,,,Avery,
+486,Golpalott,,Human,,,,,Golpalott,
+487,Wilkie Twycross,,Human,,,,,Wilkie,Twycross
+488,Cadwallader,Hufflepuff,Human,,,,,Cadwallader,
+489,Hokey,,House-elf,,,,,Hokey,
+490,Hepzibah Smith,,Human,,,,,Hepzibah,Smith
+491,Mulciber,,Human,Pure-blood,,,Death Eaters,Mulciber,
+492,Octavius Pepper,,Human,,,,,Octavius,Pepper
+493,Montgomery,,Human,Pure-blood,,,,Montgomery,
+494,Odo,,Human,,,,,Odo,
+495,Bertram Aubrey,,Human,,,,,Bertram,Aubrey
+496,Thorfinn Rowle,,Human,Pure-blood,,,Death Eaters,Thorfinn,Rowle
+497,Gibbon,,Human,,,,Death Eaters,Gibbon,
+498,Rupert Brookstanton,,Human,,,,,Rupert,Brookstanton
+499,Albino peacock,,Animal,,,,,,
+500,Pius Thicknesse,,Human,Pure-blood,,,Death Eaters,Pius,Thicknesse
+501,Charity Burbage,,Human,Pure-blood,,,,Charity,Burbage
+502,Percival Dumbledore,,Human,Pure-blood,,,,Percival,Dumbledore
+503,Kendra Dumbledore,,Human,Muggle-born,,,,Kendra,Dumbledore
+504,Ariana Dumbledore,,Human,Half-blood,,,,Ariana,Dumbledore
+505,Betty Braithwaite,,Human,,,,,Betty,Braithwaite
+506,Ivor Dillonsby,,Human,,,,,Ivor,Dillonsby
+507,Selwyn,Slytherin,Human,Pure-blood,,,Death Eaters,Selwyn,
+508,Monsieur Delacour,,Human,,,,,Monsieur,Delacour
+509,Dragomir Gorgovitch,,Human,,,,,Dragomir,Gorgovitch
+510,Beedle the Bard,,Human,,,,,Beedle,the Bard
+511,Babbitty Rabbity,,Human,,,,,Babbitty,Rabbity
+512,Lancelot,,Human,Pure-blood,,,,Lancelot,
+513,Barny Weasley,,Human,Muggle,,,,Barny,Weasley
+514,Potters' cat,,Animal,,,,,Potters',cat
+515,Reginald Cattermole,,Human,Pure-blood,,,,Reginald,Cattermole
+516,Albert Runcorn,,Human,Pure-blood,,,Death Eaters,Albert,Runcorn
+517,Mary Cattermole,,Human,Muggle-born,,,,Mary,Cattermole
+518,Wakanda,,Human,,,,,Wakanda,
+519,Bernie,,Human,,,,,Bernie,
+520,Bletchley,,Human,Pure-blood,,,,Bletchley,
+521,Arkie Alderton,,Human,Pure-blood,,,,Arkie,Alderton
+522,Maisie Cattermole,,Human,Half-blood,,,,Maisie,Cattermole
+523,Ellie Cattermole,,Human,Half-blood,,,,Ellie,Cattermole
+524,Alfred Cattermole,,Human,Half-blood,,,,Alfred,Cattermole
+525,Gornuk,,Goblin,,,,,Gornuk,
+526,Gamp,,Human,,,,,Gamp,
+527,Bowman Wright,,Human,Half-blood,,,,Bowman,Wright
+528,Ignotus Peverell,,Human,Pure-blood,,,,Ignotus,Peverell
+529,Barnabus Finkley,,Human,,,,,Barnabus,Finkley
+530,Enid Smeek,,Human,,,,,Enid,Smeek
+531,Egbert the Egregious,,Human,,,,,Egbert,the Egregious
+532,Godelot,,Human,,,,,Godelot,
+533,Hereward,,Human,Pure-blood,,,,Hereward,
+534,Loxias,,Human,,,,,Loxias,
+535,Barnabas Deverill,,Human,,,,,Barnabas,Deverill
+536,Arcus,,Human,,,,,Arcus,
+537,Livius,,Human,,,,,Livius,
+538,Antioch Peverell,,Human,Pure-blood,,,,Antioch,Peverell
+539,Cadmus Peverell,,Human,Pure-blood,,,,Cadmus,Peverell
+540,Scabior,Slytherin,Human,Pure-blood,,,Death Eaters,Scabior,
+541,Dudley,,Human,Pure-blood,,,,Dudley,
+542,Ragnuk,,Goblin,,,,,Ragnuk,
+543,Edward Lupin,Hufflepuff,Human,Half-blood,,,,Edward,Lupin
+544,Marius,,Human,Pure-blood,,,,Marius,
+545,Bogrod,,Goblin,,,,,Bogrod,
+546,Mary Macdonald,,Human,Muggle-born,,,,Mary,Macdonald
+547,Lily Potter,Gryffindor,Human,Half-blood,,,,Lily,Potter
+548,James Potter II,Gryffindor,Human,Half-blood,,,,James,Potter II
+549,Albus Potter,Slytherin,Human,Half-blood,,,,Albus,Potter
+550,James Potter's owl,,Animal,,,,,,
+551,Albus Potter's owl,,Animal,,,,,,
+552,Rose Weasley,Gryffindor,Human,Half-blood,,,,Rose,Weasley
+553,Hugo Weasley,,Human,Half-blood,,,,Hugo,Weasley
+554,Scorpius Malfoy,Slytherin,Human,Pure-blood,,,,Scorpius,Malfoy
+555,Victoire Weasley,,Human,Half-breed,,,,Victoire,Weasley
+556,Astoria Greengrass,,Human,Pure-blood,,,,Astoria,Greengrass
