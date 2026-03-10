@@ -5,7 +5,7 @@
 ## 🎯 Project Overview
 **Can we predict if Harry Potter characters are friends or enemies using NLP?** 
 
-This **DTU research project** combines **Network Analysis** + **Sentiment Analysis** to map character relationships across all 7 Harry Potter books. We built character interaction networks (edges = co-appearing in sentences) weighted by sentence sentiment scores.
+This **DTU course project** combines **Network Analysis** + **Sentiment Analysis** to map character relationships across all 7 Harry Potter books. We built character interaction networks (edges = co-appearing in sentences) weighted by sentence sentiment scores.
 
 **My contributions (Ioannis Tselios):**
 - ✅ **Character dataset creation** (557 characters with attributes)
@@ -13,7 +13,7 @@ This **DTU research project** combines **Network Analysis** + **Sentiment Analys
 - ✅ **Community detection** (Louvain algorithm)
 - ✅ **Web scraping** (Harry Potter Fandom + spells dataset)
 
-**Key findings:** Sentiment scores cluster tightly (~5.3) making friend/foe prediction inconclusive, but networks reveal realistic social structures!
+**Key findings:** Sentiment scores cluster tightly (~5.3) making friend/foe prediction inconclusive but networks reveal realistic social structures!
 
 ---
 
@@ -45,25 +45,6 @@ This **DTU research project** combines **Network Analysis** + **Sentiment Analys
 NLTK (NER) → NetworkX (graphs) → Louvain (communities) 
 → Scikit-learn (TF-IDF) → Sentiment dataset (10K words)
 BeautifulSoup (scraping)
-
-📁 Repository Structure
-Harry_potter_sentiment_analysis/
-├── data/
-│   ├── books/           # 7 Harry Potter txt files
-│   ├── characters.csv   # 557 characters + attributes
-│   └── spells.csv
-├── notebooks/
-│   ├── 01_data_prep.ipynb
-│   ├── 02_networks.ipynb
-│   ├── 03_sentiment.ipynb
-│   └── 04_wordclouds.ipynb
-├── src/
-│   ├── ner_mapping.py
-│   ├── network_builder.py
-│   └── sentiment.py
-└── images/
-    └── networks/        # Book network visualizations
-    └── wordclouds/
 
 
 🚀 Quick Start
